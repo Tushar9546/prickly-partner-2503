@@ -1,15 +1,43 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import {GiHamburgerMenu} from "react-icons/gi"
 import {FaUser} from "react-icons/fa"
 import Style from "./Navbar.module.css"
 import {BsFillCartFill} from "react-icons/bs"
 import {MdLocationOn} from "react-icons/md"
 import {AiOutlineDown} from "react-icons/ai"
-
+import {useSearchParams} from "react-router-dom"
+import { useState } from 'react'
+import axios from "axios"
 
 
 
 export const Navbar = () => {
+
+ const [searchParam, setSearchParam]= useSearchParams()
+  const [query, setQuery] = useState(searchParam.get("q") || "")
+   const [data, setData] = useState([])
+
+ const SearchData=(query)=>{
+   axios.get(`http://localhost:8080/womens?q=${query}`)
+   .then((res)=>{
+      console.log(res.data)
+      setData(res.data)
+   })
+
+ }
+
+  const handleSearch=(e)=>{
+  
+      setQuery(e.target.value)
+     SearchData(e.target.value)
+  
+  }
+console.log(query)
+useEffect(()=>{
+      setSearchParam({q:query})
+},[query])
+
+
 
   return (
         // navbar-1
@@ -21,7 +49,7 @@ export const Navbar = () => {
         </div>
 
         <div>
-            <input className={Style.inputSearch} placeholder="Search essentials, groceries, and more ..." />
+            <input className={Style.inputSearch} value={query} onChange={handleSearch} placeholder="Search essentials, groceries, and more ..." />
         </div>
         <div className={Style.userdiv}>
         <FaUser className={Style.usericons} />
@@ -44,38 +72,39 @@ export const Navbar = () => {
   
           <div className={Style.navbar2style1}>
             <p>Groceries</p>
-            <AiOutlineDown />
+  
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          <div className={Style.navbar2style1}>
             <p>Premium Fruits</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          <div className={Style.navbar2style1}>
             <p>Home & Kitchen</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          <div className={Style.navbar2style1}>
             <p>Fashion</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          <div className={Style.navbar2style1}>
             <p>Electronics</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
 
          <div className={Style.navbar2style1}>
             <p>Beauty</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          <div className={Style.navbar2style1}>
             <p>Jewellery</p>
-            <AiOutlineDown />
+            <AiOutlineDown style={{color:"gray"}} />
          </div>
 
          

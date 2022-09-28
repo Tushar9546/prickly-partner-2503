@@ -91,3 +91,9 @@ h4{
     font-size: 14px;
 }
 
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 250px;
+}
