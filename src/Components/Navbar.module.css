@@ -1,0 +1,99 @@
+.navbarblocknavbarblock{
+    display: block;
+}
+
+.navbar{
+    width:100%;
+    height: 72px;
+    box-sizing: border-box;
+    background: #008ecc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    position: relative;
+    top:0;
+}
+
+.hambueger{
+    font-size: 26px;
+    color:white;
+}
+.inputSearch{
+    width:670px;
+    height:40px;
+    border: 0;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 14px;
+    color: #000;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0px 16px;
+    line-height: 40px;
+    font-weight: 600;
+}
+
+.userdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+
+.cartNav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+
+.carticon{
+    font-size: 20px;
+    color:white;
+}
+h4{
+    color:white;
+}
+.usericons{
+    color:white;
+    font-size: 20px;
+}
+
+                          /* navbar-2 */
+#newnav{
+    width:100%;
+    height:40px;
+    background-color: #f2e8e8;
+     display: flex;
+     align-items: center;
+   justify-content: center;
+   gap:80px;
+}  
+
+ .locationdiv{
+    width:70px;
+    color:rgb(93, 92, 92);
+    font-weight: 400;
+    font-size: 14px;
+} 
+
+.navbar2style1 {
+    display: flex;
+   align-items: center;
+   gap:4px;
+}
+.locationIcon{
+    font-size: 24px;
+    color:#00000080
+}
+.navbar2style1>p{
+    color:black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 250px;
+}
