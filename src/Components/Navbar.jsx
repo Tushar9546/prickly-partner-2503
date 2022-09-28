@@ -40,40 +40,40 @@ export const Navbar = () => {
           <MdLocationOn className={Style.locationIcon} />
           <div className={Style.locationdiv} >Deliver to <span style={{color:"black", fontWeight:"600", fontSize:"14px"}} >400020</span>
           </div>
-          </div>
+        </div>
   
-          <div className={Style.navbar2style2}>
+          <div className={Style.navbar2style1}>
             <p>Groceries</p>
             <AiOutlineDown />
          </div>
 
-         <div className={Style.navbar2style3}>
+         <div className={Style.navbar2style1}>
             <p>Premium Fruits</p>
             <AiOutlineDown />
          </div>
 
-         <div className={Style.navbar2style4}>
+         <div className={Style.navbar2style1}>
             <p>Home & Kitchen</p>
             <AiOutlineDown />
          </div>
 
-         <div className={Style.navbar2style5}>
+         <div className={Style.navbar2style1}>
             <p>Fashion</p>
             <AiOutlineDown />
          </div>
 
-         <div className={Style.navbar2style6}>
+         <div className={Style.navbar2style1}>
             <p>Electronics</p>
             <AiOutlineDown />
          </div>
 
 
-         <div className={Style.navbar2style7}>
+         <div className={Style.navbar2style1}>
             <p>Beauty</p>
             <AiOutlineDown />
          </div>
 
-         <div className={Style.navbar2style8}>
+         <div className={Style.navbar2style1}>
             <p>Jewellery</p>
             <AiOutlineDown />
          </div>

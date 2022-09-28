@@ -65,51 +65,29 @@ h4{
     background-color: #f2e8e8;
      display: flex;
      align-items: center;
-   justify-content: space-between;
+   justify-content: center;
+   gap:80px;
 }  
 
  .locationdiv{
-    /* width:70px; */
+    width:70px;
     color:rgb(93, 92, 92);
     font-weight: 400;
     font-size: 14px;
 } 
 
-/* .navbar2style1 {
+.navbar2style1 {
     display: flex;
    align-items: center;
-   gap:3px;
-} */
+   gap:4px;
+}
 .locationIcon{
     font-size: 24px;
     color:#00000080
 }
-/* .navbar2style1>p{
+.navbar2style1>p{
     color:black;
     font-weight: 600;
     font-size: 14px;
 }
 
-.navbar2style2{
-    display: flex;
-    align-items: center;
-    gap:4px;
-}
-
-.navbar2style3{
-    display: flex;
-    align-items: center;
-    gap:4px;
-} */
-
-/* .navbar2style4{
-    display: flex;
-    align-items: center;
-    gap:4px;
-}
-
-.navbar2style5{
-    display: flex;
-    align-items: center;
-    gap:4px;
-} */
