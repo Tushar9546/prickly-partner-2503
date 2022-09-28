@@ -4,6 +4,7 @@ import GroceriesProducts from './Pages/GroceriesProducts';
 import { useSelector } from 'react-redux';
 import { Navbar } from './Components/Navbar';
 import { MainPage } from './Pages/MainPage';
+import MobileTablet from './Components/Electronics/MobileTablet';
 
 function App() {
   
@@ -11,8 +12,10 @@ function App() {
     <div className="App">
 
       <GroceriesProducts />
+
      <Navbar/>
      <MainPage/>
+     <MobileTablet />
     </div>
   );
 }
