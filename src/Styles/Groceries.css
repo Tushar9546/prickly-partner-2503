@@ -21,17 +21,10 @@
     display: flex;
 }
 
-.left{
-    width: 20%;
-    height: 500px;
-    border: 1px solid red;
-}
-
 .right{
     width: 76%;
     height: auto;
     margin-left: 40px;
-    /* border: 1px solid red; */
 }
 
 .top-section-imgcontainer{
@@ -42,13 +35,6 @@
 .title-img{
     width: 100%;
     height: 100%;
-}
-
-.right-sorting-container{
-    border: 1px solid black;
-    height: 50px;
-    margin-top: 10px;
-    margin-bottom: 10px;
 }
 
 .middle-section-parent{
@@ -132,9 +118,39 @@
 }
 
 .pagination-container{
-    border: 1px solid red;
     height: 60px;
     width: 100%;
+}
+
+.right-sorting-container{
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.right-sorting-container p {
+    padding-top: 1.6%;
+    color: #494444;
+}
+.right-sorting-container b {
+    color: black;
+}
+
+.sort-box{
+    width: 75%;
+    display: flex;
+    justify-content: space-around;
+}
+.sort-box p {
+    padding-top: 1.6%;
+}
+
+.btn-sort{
+    border-radius: 3px;
+    height: 40px;
+    padding: 2%;
+    text-align: center;
 }
 
 @media screen and (max-width: 640px) {
@@ -156,4 +172,57 @@
         font-size: 0.8rem;
         width: 90%;
     }
+
+    .right-sorting-container{
+        height: 100px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sort-box{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        font-size: 10px;
+    }
+    .sort-box > Button {
+        width: 100px;
+        font-size: 9px;
+        margin-left: 2px;
+    }
+
+    .categories-cntr p {
+        padding: 4%;
+        font-size: 0.8rem;
+    }
+
+}
+
+
+.left{
+    width: 20%;
+    height: 2000px;
+    /* border: 1px solid red; */
+}
+
+.filters-container {
+    width: 98%;
+    height: 98%;
+    margin: auto;
+    /* border: 1px solid #0e0d0d; */
+}
+
+.filters-heading{
+    width: 100%;
+    padding: 4%;
+    margin: auto;
+    font-size: 1.5rem;
+    color: #676464;
+    font-weight: lighter;
+    border-bottom:  1px solid #d3d3d3;
+}
+
+.categories-cntr p {
+    padding: 4%;
 }

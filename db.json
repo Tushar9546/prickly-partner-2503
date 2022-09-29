@@ -1,4 +1,17 @@
 {
+  "username": [
+    {
+      "phnop": "8850902884",
+      "fistname": "Rahul",
+      "lastname": "Nishad",
+      "email": "rahulnishad977@gmail.com",
+      "password": "12345",
+      "repassword": "12345",
+      "otp": "5555",
+      "id": 1
+    }
+    
+  ],
   "fruits-vegitables": [
     {
       "id": 1,
@@ -1292,103 +1305,13 @@
   ],
   "womens": [
     {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/rhode/rhode303391d3cd/rhode303391d3cd_1651071954047_2-0._UY0_QL90_.jpg",
-      "title":"Rhode",
-      "detail":"Astrid Dress",
-      "price":"$445.00"
-  },
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/rhode/rhode303391d3cd/rhode303391d3cd_1651071954047_2-0._UY0_QL90_.jpg",
+      "title": "Rhode",
+      "detail": "Astrid Dress",
+      "price": "445.00",
+      "discount": "50"
+    },
 
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310111c925/tgrea310111c925_1649801064836_2-0._QL90_UX207_.jpg",
-      "title":"THE GREAT.",
-      "detail":"The Pathway Dress",
-      "price":"$375.00"
-  },
-
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310171d58a/tgrea310171d58a_1649802938404_2-0._QL90_UX207_.jpg",
-      "title":"RAILS",
-      "detail":"Ellis Button Down Shirt",
-      "price":"$158.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/adina/adina2016711739/adina2016711739_q6_2-1._UX357_QL90_.jpg",
-      "title":"Adina Reyter",
-      "detail":"14k Gold Super Tiny Disc Necklace",
-      "price":"$350.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/opttt/opttt3013117517/opttt3013117517_1649781693810_2-0._QL90_UX207_.jpg",
-      "title":"OPT",
-      "detail":"Tuscany Dress",
-      "price":"$169.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/opttt/opttt301011071b/opttt301011071b_1630350841099_2-0._UX357_QL90_.jpg",
-      "title":"",
-      "detail":"Toile de Jouy Dress",
-      "price":"$169.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ullaj/ullaj2183012ce3/ullaj2183012ce3_1646756466341_2-0._QL90_UX207_.jpg",
-      "title":"RAILS",
-      "detail":"Gauze Ellis Shirt",
-      "price":"$150.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1045186894/natio1045186894_1650396875804_2-0.jpg",
-      "title":"Nation LTD",
-      "detail":"Tuscany Dress",
-      "price":"$168.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/sabmu/sabmu300011c925/sabmu300011c925_1650578129073_2-0._QL90_UX207_.jpg",
-      "title":"Nation LTD",
-      "detail":"Shoshanah Smocked Sundress",
-      "price":"$198.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/mrive/mrive303431ac51/mrive303431ac51_1650492712605_2-0._QL90_UX207_.jpg",
-      "title":"Tiered Midi Dress",
-      "detail":"Sonali Bubble Hem Top",
-      "price":"$150.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310171d58a/tgrea310171d58a_1649802938404_2-0._QL90_UX207_.jpg",
-      "title":"OPT",
-      "detail":"Gauze Ellis Shirt",
-      "price":"$198.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/shosh/shosh417311d577/shosh417311d577_1649694180945_2-0.jpg",
-      "title":"Moon River",
-      "detail":"Tiered Midi Dress",
-      "price":"$168.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300321e6f8/lvtla300321e6f8_1649275985144_2-0._QL90_UX207_.jpg",
-      "title":"OPT",
-      "detail":"Shoshanah Smocked Sundress",
-      "price":"$169.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/xiren/xiren3061412244/xiren3061412244_1646948654189_2-0._QL90_UX207_.jpg",
-      "title":"Moon River",
-      "detail":"Hilma Dress",
-      "price":"$398.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1044716a5e/natio1044716a5e_1650388437720_2-0._UY0_QL90_.jpg",
-      "title":"LOVE THE LABEL",
-      "detail":"Tiered Midi Dress",
-      "price":"$150.00"
-  },
-  {
-      "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1045313f6e/natio1045313f6e_1650387982099_2-0._UX357_QL90_.jpg",
-      "title":"THE GREAT.",
-      "detail":"Shoshanah Smocked Sundress",
-      "price":"$398.00"
-  },
 
   {
       "image":"https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1033910739/natio1033910739_q1_2-0._SH20_QL90_UY365_.jpg",
@@ -1674,16 +1597,446 @@
   }
 ],
 
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310111c925/tgrea310111c925_1649801064836_2-0._QL90_UX207_.jpg",
+      "title": "THE GREAT.",
+      "detail": "The Pathway Dress",
+      "price": "375.00",
+      "discount": "70"
+    },
 
 
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310171d58a/tgrea310171d58a_1649802938404_2-0._QL90_UX207_.jpg",
+      "title": "RAILS",
+      "detail": "Ellis Button Down Shirt",
+      "price": "158.00",
+      "discount": "70"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/adina/adina2016711739/adina2016711739_q6_2-1._UX357_QL90_.jpg",
+      "title": "Adina Reyter",
+      "detail": "14k Gold Super Tiny Disc Necklace",
+      "price": "350.00",
+      "discount": "77"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/opttt/opttt3013117517/opttt3013117517_1649781693810_2-0._QL90_UX207_.jpg",
+      "title": "OPT",
+      "detail": "Tuscany Dress",
+      "price": "169.00",
+      "discount": "80"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/opttt/opttt301011071b/opttt301011071b_1630350841099_2-0._UX357_QL90_.jpg",
+      "title": "Floral Semi-Stitched Single",
+      "detail": "Toile de Jouy Dress",
+      "price": "169.00",
+      "discount": "55"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ullaj/ullaj2183012ce3/ullaj2183012ce3_1646756466341_2-0._QL90_UX207_.jpg",
+      "title": "RAILS",
+      "detail": "Gauze Ellis Shirt",
+      "price": "150.00",
+      "discount": "45"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1045186894/natio1045186894_1650396875804_2-0.jpg",
+      "title": "Nation LTD",
+      "detail": "Tuscany Dress",
+      "price": "168.00",
+      "discount": "82"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/sabmu/sabmu300011c925/sabmu300011c925_1650578129073_2-0._QL90_UX207_.jpg",
+      "title": "Nation LTD",
+      "detail": "Shoshanah Smocked Sundress",
+      "price": "198.00",
+      "discount": "67"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/mrive/mrive303431ac51/mrive303431ac51_1650492712605_2-0._QL90_UX207_.jpg",
+      "title": "Tiered Midi Dress",
+      "detail": "Sonali Bubble Hem Top",
+      "price": "150.00",
+      "discount": "46"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310171d58a/tgrea310171d58a_1649802938404_2-0._QL90_UX207_.jpg",
+      "title": "OPT",
+      "detail": "Gauze Ellis Shirt",
+      "price": "198.00",
+      "discount": "23"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/shosh/shosh417311d577/shosh417311d577_1649694180945_2-0.jpg",
+      "title": "Moon River",
+      "detail": "Tiered Midi Dress",
+      "price": "168.00",
+      "discount": "29"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300321e6f8/lvtla300321e6f8_1649275985144_2-0._QL90_UX207_.jpg",
+      "title": "OPT",
+      "detail": "Shoshanah Smocked Sundress",
+      "price": "169.00",
+      "discount": "72"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/xiren/xiren3061412244/xiren3061412244_1646948654189_2-0._QL90_UX207_.jpg",
+      "title": "Moon River",
+      "detail": "Hilma Dress",
+      "price": "398.00",
+      "discount": "46"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1044716a5e/natio1044716a5e_1650388437720_2-0._UY0_QL90_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Tiered Midi Dress",
+      "price": "150.00",
+      "discount": "59"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1045313f6e/natio1045313f6e_1650387982099_2-0._UX357_QL90_.jpg",
+      "title": "THE GREAT.",
+      "detail": "Shoshanah Smocked Sundress",
+      "price": "398.00",
+      "discount": "34"
+    },
 
 
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1033910739/natio1033910739_q1_2-0._SH20_QL90_UY365_.jpg",
+      "title": "Nation LTD",
+      "detail": "Cameron Mock Neck Tee",
+      "price": "168.00",
+      "discount": "46"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/apiec/apiec303461d31b/apiec303461d31b_1649707055934_2-0._QL90_UX207_.jpg",
+      "title": "THE GREAT.",
+      "detail": "The Pleated Ravine Dress",
+      "price": "150.00",
+      "discount": "67"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/mrive/mrive3033016731/mrive3033016731_1648071054220_2-0._SH20_QL90_UY365_.jpg",
+      "title": "Moon River",
+      "detail": "Tiered Midi Dress",
+      "price": "198.00",
+      "discount": "34"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/mrive/mrive303341c925/mrive303341c925_1644444700529_2-0._SH20_QL90_UY365_PGshopbop-ep-sticker-3_UY365_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Hilma Dress",
+      "price": "425.00",
+      "discount": "66"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1045313f6e/natio1045313f6e_1650387983404_2-0._UY0_QL90_.jpg",
+      "title": "Nation LTD",
+      "detail": "The Pleated Ravine Dress",
+      "price": "398.00",
+      "discount": "78"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla30036102ca/lvtla30036102ca_1649698109697_2-0._UX357_QL90_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Remy Dress",
+      "price": "265.00",
+      "discount": "54"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300241cd20/lvtla300241cd20_1641399011162_2-0._SH20_QL90_UY365_PGshopbop-ep-sticker-3_UY365_.jpg",
+      "title": "En Saison",
+      "detail": "Combination Ruched Dress",
+      "price": "265.00",
+      "discount": "81"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300191cd1d/lvtla300191cd1d_1639078962739_2-0._UX357_QL90_.jpg",
+      "title": "MISA",
+      "detail": "Luella Tiered Skirt",
+      "price": "132.50",
+      "discount": "52"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300221cd1b/lvtla300221cd1b_1644006685926_2-0._SH20_QL90_UY365_.jpg",
+      "title": "En Saison",
+      "detail": "Remy Dress",
+      "price": "265.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla30036102ca/lvtla30036102ca_1649698109766_2-0._QL90_UX207_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Remy Dress",
+      "price": "167.00",
+      "discount": "40"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai300961b002/ensai300961b002_1631125185078_2-0._UX357_QL90_.jpg",
+      "title": "MISA",
+      "detail": "Combination Ruched Dress",
+      "price": "194.00",
+      "discount": "42"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/desktop/mastheads/seo/sb_20220421_desktop_BRANDSEO_MH_misa_1-0.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Detail Midi Dress",
+      "price": "132.50",
+      "discount": "19"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tbags/tbags410881d73f/tbags410881d73f_1649693825527_2-0._SH20_QL90_UY365_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Vida Dress",
+      "price": "265.00",
+      "discount": "12"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai301481c3c8/ensai301481c3c8_1645823217415_2-0._UX357_QL90_.jpg",
+      "title": "MISA",
+      "detail": "Remy Dress",
+      "price": "167.00",
+      "discount": "43"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tbags/tbags410891d73a/tbags410891d73a_1649693830785_2-0._UY0_QL90_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Remy Dress",
+      "price": "265.00",
+      "discount": "46"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai3016010dad/ensai3016010dad_1642096267009_2-0._SH20_QL90_UY365_PGshopbop-ex-sticker-3_UY365_.jpg",
+      "title": "En Saison",
+      "detail": "Maya Dress",
+      "price": "132.50",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tbags/tbags410901d73b/tbags410901d73b_1649684062808_2-0._UX357_QL90_.jpg",
+      "title": "MISA",
+      "detail": "Vida Dress",
+      "price": "194.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai301301c3a0/ensai301301c3a0_1636060878910_2-0._SH20_QL90_UY365_.jpg",
+      "title": "En Saison",
+      "detail": "Remy Dress",
+      "price": "265.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai30150172fb/ensai30150172fb_1647532652702_2-0._SH20_QL90_UY365_.jpg",
+      "title": "LOVE THE LABEL",
+      "detail": "Maya Dress",
+      "price": "470.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai30162102cb/ensai30162102cb_1637018390346_2-0._SH20_QL90_UY365_.jpg",
+      "title": "byTiMo",
+      "detail": "Cotton Slub Button Down Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/lvtla/lvtla300281d446/lvtla300281d446_1649196278881_2-0._SH20_QL90_UY365_.jpg",
+      "title": "byTiMo",
+      "detail": "Andromeda Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/seaaa/seaaa215381a569/seaaa215381a569_1647377477768_2-0._QL90_UX207_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Bjorn Dress",
+      "price": "371.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/cultg/cultg307991a924/cultg307991a924_1651163728418_2-0._UX357_QL90_.jpg",
+      "title": "CULT GAIA",
+      "detail": "Catherine Knit Sweater",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310141d58b/tgrea310141d58b_1649865636053_2-0._QL90_UX207_.jpg",
+      "title": "byTiMo",
+      "detail": "Andromeda Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300911c3c8/celia300911c3c8_1651092366708_2-0._SH20_QL90_UY365_.jpg",
+      "title": "XIRENA",
+      "detail": "Cotton Slub Button Down Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/apiec/apiec303401d316/apiec303401d316_1647276498608_2-0._QL90_UX346_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Mini Mitte Dress",
+      "price": "283.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai301401a561/ensai301401a561_1642538171190_2-0._QL90_UX346_.jpg",
+      "title": "byTiMo",
+      "detail": "Viggo Romper",
+      "price": "413.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/apiec/apiec303441d317/apiec303441d317_1647288532218_2-0._UX357_QL90_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Verder Mini Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/velve/velve4155610213/velve4155610213_1643138200642_2-0._QL90_UX346_.jpg",
+      "title": "CULT GAIA",
+      "detail": "Cotton Slub Button Down Dress",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300921c925/celia300921c925_1651162954622_2-0._SH20_QL90_UY365_.jpg",
+      "title": "CULT GAIA",
+      "detail": "Andromeda Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300841c3c8/celia300841c3c8_1648500171817_2-0._QL90_UX207_.jpg",
+      "title": "CELIAB",
+      "detail": "Bjorn Dress",
+      "price": "371.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/bytim/bytim300841d3a8/bytim300841d3a8_1648043252240_2-0._UX357_QL90_.jpg",
+      "title": "byTiMo",
+      "detail": "Verder Mini Dress",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/bytim/bytim300841d3a8/bytim300841d3a8_1648043252240_2-0._UX357_QL90_.jpg",
+      "title": "CELIAB",
+      "detail": "Cotton Slub Button Down Dress",
+      "price": "413.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/rails/rails3145021145/rails3145021145_1645809649004_2-0._QL90_UX207_.jpg",
+      "title": "byTiMo",
+      "detail": "Verder Mini Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/apiec/apiec303461d31b/apiec303461d31b_1649707056864_2-0._UX357_QL90_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Mini Mitte Dress",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia30077102c9/celia30077102c9_1640212398591_2-0._UX357_QL90_.jpg",
+      "title": "CELIAB",
+      "detail": "Verder Mini Dress",
+      "price": "413.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai301401a561/ensai301401a561_1642538171190_2-0._QL90_UX207_.jpg",
+      "title": "XIRENA",
+      "detail": "Aurie Dress",
+      "price": "283.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300871c3c8/celia300871c3c8_1651098253454_2-0._SH20_QL90_UY365_.jpg",
+      "title": "CULT GAIA",
+      "detail": "Shoshanah Smocked Sundress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300901c3c8/celia300901c3c8_1649102555214_2-0._SH20_QL90_UY365_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Bjorn Dress",
+      "price": "371.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa205081d036/wayfa205081d036_1645565360908_2-0._SH20_QL90_UY365_.jpg",
+      "title": "byTiMo",
+      "detail": "Gaya Dress",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa204951c5f0/wayfa204951c5f0_1637705736133_2-0._SH20_QL90_UY365_.jpg",
+      "title": "XIRENA",
+      "detail": "Malibu Faux Wrap Midi Dress",
+      "price": "295.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/celia/celia300881c3c8/celia300881c3c8_1648489949874_2-0._SH20_QL90_UY365_.jpg",
+      "title": "Apiece Apart",
+      "detail": "Malibu Faux Wrap Midi Dress",
+      "price": "413.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa2039113149/wayfa2039113149_q1_2-0._SH20_QL90_UY365_.jpg",
+      "title": "CELIAB",
+      "detail": "Aurie Dress",
+      "price": "371.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa2050912424/wayfa2050912424_1649956616919_2-0._SH20_QL90_UY365_.jpg",
+      "title": "CULT GAIA",
+      "detail": "Bjorn Dress",
+      "price": "388.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa205071d034/wayfa205071d034_1645565347341_2-0._SH20_QL90_UY365_.jpg",
+      "title": "byTiMo",
+      "detail": "Shoshanah Smocked Sundress",
+      "price": "199.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/wayfa/wayfa2047412466/wayfa2047412466_1633121844836_2-0._SH20_QL90_UY365_.jpg",
+      "title": "XIRENA",
+      "detail": "Gaya Dress",
+      "price": "198.00",
+      "discount": "50"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/rhode/rhode303391d3cd/rhode303391d3cd_1651071952963_2-0._UX357_QL90_.jpg",
+      "title": "CELIAB",
+      "detail": "Aurie Dress",
+      "price": "283.00",
+      "discount": "50"
+    }
+  ],
 
-
-
-
-
- 
   "mobile-tablets": [
     {
         "id": 1,
@@ -3397,362 +3750,484 @@
   
   "groceries": [
     {
-        "id": 1,
-        "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-1-202204281542.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
-        "name": "Good Life Sugar (M) 1 kg",
-        "mrp":  55.00,
-        "price": 46.00    
+      "id": 1,
+      "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-1-202204281542.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
+      "name": "Good Life Sugar (M) 1 kg",
+      "mrp": 55.0,
+      "price": 46.0,
+      "discount": "50",
+      "category": "Sugar",
+      "brand": "Tata"
     },
     {
-        "id": 2,
-        "image1": "https://www.jiomart.com/images/product/150x150/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-0-202203170247.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-1-202203170247.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-legal-images-o490886599-p590041204-4-202203170247.jpg",
-        "name": "Bikaji Premium Soanpapdi 450 g",
-        "mrp":  100.00,
-        "price": 85.00    },
-    {
-        "id": 3,
-        "image1": "https://www.jiomart.com/images/product/150x150/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-0-202203150520.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-1-202203150520.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-3-202203150520.jpg",
-        "name": "Bikaji Rasgulla 1 kg",
-        "mrp":  289.00,
-        "price": 144.0
+      "id": 2,
+      "image1": "https://www.jiomart.com/images/product/150x150/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-0-202203170247.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-1-202203170247.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-legal-images-o490886599-p590041204-4-202203170247.jpg",
+      "name": "Bikaji Premium Soanpapdi 450 g",
+      "mrp": 100.0,
+      "price": 85.0,
+      "discount": "50",
+      "category": "Snack",
+      "brand": "Bikaji"
     },
     {
-        "id": 4,
-        "image1": "https://www.jiomart.com/images/product/150x150/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-0-202203170914.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-1-202203170914.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-2-202203170914.jpg",
-        "name": "Bikaji Gulab Jamun 1 Kg",
-        "mrp":  289.00,
-        "price": 144.0
+      "id": 3,
+      "image1": "https://www.jiomart.com/images/product/150x150/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-0-202203150520.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-1-202203150520.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-3-202203150520.jpg",
+      "name": "Bikaji Rasgulla 1 kg",
+      "mrp": 289.0,
+      "price": 144.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Bikaji"
     },
     {
-        "id": 5,
-        "image1": "https://www.jiomart.com/images/product/150x150/491586300/snactac-celebrations-soan-papdi-400-g-product-images-o491586300-p491586300-0-202208031136.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-product-images-o491586300-p491586300-1-202208031137.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-legal-images-o491586300-p491586300-2-202208031137.jpg",
-        "name": "Snactac Celebrations Soan",
-        "mrp":  169.00,
-        "price": 84.00    },
-    {
-        "id": 6,
-        "image1": "https://www.jiomart.com/images/product/150x150/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-0-202208031136.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-1-202208031137.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-2-202208031137.jpg",
-        "name": "Snactac Celebrations Gulab",
-        "mrp":  289.00,
-        "price": 144.0
+      "id": 4,
+      "image1": "https://www.jiomart.com/images/product/150x150/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-0-202203170914.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-1-202203170914.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-2-202203170914.jpg",
+      "name": "Bikaji Gulab Jamun 1 Kg",
+      "mrp": 289.0,
+      "price": 144.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Bikaji"
     },
     {
-        "id": 7,
-        "image1": "https://www.jiomart.com/images/product/150x150/491135485/crave-gulab-jamun-1-kg-product-images-o491135485-p491135485-0-202203170955.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-product-images-o491135485-p491135485-1-202203170955.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-legal-images-o491135485-p491135485-2-202203170955.jpg",
-        "name": "Crave Gulab Jamun 1 Kg",
-        "mrp":  299.00,
-        "price": 149.0
+      "id": 5,
+      "image1": "https://www.jiomart.com/images/product/150x150/491586300/snactac-celebrations-soan-papdi-400-g-product-images-o491586300-p491586300-0-202208031136.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-product-images-o491586300-p491586300-1-202208031137.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-legal-images-o491586300-p491586300-2-202208031137.jpg",
+      "name": "Snactac Celebrations Soan",
+      "mrp": 169.0,
+      "price": 84.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Dairy-Milk"
     },
     {
-        "id": 8,
-        "image1": "https://www.jiomart.com/images/product/150x150/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-0-202203150551.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-1-202203150551.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-2-202203150551.jpg",
-        "name": "Crave Eatables Bachubhai's",
-        "mrp":  299.00,
-        "price": 149.0
+      "id": 6,
+      "image1": "https://www.jiomart.com/images/product/150x150/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-0-202208031136.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-1-202208031137.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-2-202208031137.jpg",
+      "name": "Snactac Celebrations Gulab",
+      "mrp": 289.0,
+      "price": 144.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Dairy-Milk"
     },
     {
-        "id": 9,
-        "image1": "https://www.jiomart.com/images/product/150x150/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-0-20220624.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-1-20220624.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-13-20220624.jpg",
-        "name": "Saffola Gold Refined Rice Bran and ",
-        "mrp":  1310.0,
-        "price": 899.0
+      "id": 7,
+      "image1": "https://www.jiomart.com/images/product/150x150/491135485/crave-gulab-jamun-1-kg-product-images-o491135485-p491135485-0-202203170955.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-product-images-o491135485-p491135485-1-202203170955.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-legal-images-o491135485-p491135485-2-202203170955.jpg",
+      "name": "Crave Gulab Jamun 1 Kg",
+      "mrp": 299.0,
+      "price": 149.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Nirlon"
     },
     {
-        "id": 10,
-        "image1": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-2-202208111657.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-legal-images-o492367966-p590837659-3-202208111657.jpg",
-        "name": "Surf Excel Esay wash Detergent ",
-        "mrp":  770.00,
-        "price": 620.0
+      "id": 8,
+      "image1": "https://www.jiomart.com/images/product/150x150/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-0-202203150551.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-1-202203150551.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-2-202203150551.jpg",
+      "name": "Crave Eatables Bachubhai's",
+      "mrp": 299.0,
+      "price": 149.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Nirlon"
     },
     {
-        "id": 11,
-        "image1": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-1-202203151949.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-2-202203151949.jpg",
-        "name": "Tide Jasmine & Rose Detergent Powder 5",
-        "mrp":  685.00,
-        "price": 535.0
+      "id": 9,
+      "image1": "https://www.jiomart.com/images/product/150x150/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-0-20220624.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-1-20220624.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-13-20220624.jpg",
+      "name": "Saffola Gold Refined Rice Bran and ",
+      "mrp": 1310.0,
+      "price": 899.0,
+      "discount": "50",
+      "category": "Oil",
+      "brand": "Tide"
     },
     {
-        "id": 12,
-        "image1": "https://www.jiomart.com/images/product/150x150/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-0-202203151011.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-2-202203151011.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-3-202203151011.jpg",
-        "name": "Ariel Matic Top Load Detergent Powder 4",
-        "mrp":  1330.0,
-        "price": 1030.00
+      "id": 10,
+      "image1": "https://www.jiomart.com/images/product/150x150/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-0-202208111657.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-2-202208111657.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-legal-images-o492367966-p590837659-3-202208111657.jpg",
+      "name": "Surf Excel Esay wash Detergent ",
+      "mrp": 770.0,
+      "price": 620.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Tide"
     },
     {
-        "id": 13,
-        "image1": "https://www.jiomart.com/images/product/150x150/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202204291101.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-2-202204291101.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-3-202204291102.jpg",
-        "name": "Surf Excel Matic Top Load Detergent",
-        "mrp":  1325.0,
-        "price": 1025.00
+      "id": 11,
+      "image1": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-1-202203151949.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-2-202203151949.jpg",
+      "name": "Tide Jasmine & Rose Detergent Powder 5",
+      "mrp": 685.0,
+      "price": 535.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Good-life"
     },
     {
-        "id": 14,
-        "image1": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-1-202205180139.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-legal-images-o491186625-p491186625-2-202205180139.jpg",
-        "name": "Good Life Almond 500 g",
-        "mrp":  549.00,
-        "price": 349.0
+      "id": 12,
+      "image1": "https://www.jiomart.com/images/product/150x150/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-0-202203151011.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-2-202203151011.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-3-202203151011.jpg",
+      "name": "Ariel Matic Top Load Detergent Powder 4",
+      "mrp": 1330.0,
+      "price": 1030.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Celebration"
     },
     {
-        "id": 15,
-        "image1": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-1-202205180138.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-legal-images-o491186631-p491186631-2-202205180138.jpg",
-        "name": "Good Life (W320)cashews 500 g",
-        "mrp":  499.00,
-        "price": 399.0
+      "id": 13,
+      "image1": "https://www.jiomart.com/images/product/150x150/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202204291101.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-2-202204291101.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-3-202204291102.jpg",
+      "name": "Surf Excel Matic Top Load Detergent",
+      "mrp": 1325.0,
+      "price": 1025.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Celebration"
     },
     {
-        "id": 16,
-        "image1": "https://www.jiomart.com/images/product/150x150/491349617/cadbury-celebration-chocolate-186-6-g-product-images-o491349617-p491349617-0-202207041226.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-product-images-o491349617-p491349617-1-202207041226.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-legal-images-o491349617-p491349617-2-202207041226.jpg",
-        "name": "Cadbury Celebration Chocolate 178.80 g",
-        "mrp":  199.00,
-        "price": 159.0
+      "id": 14,
+      "image1": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-1-202205180139.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-legal-images-o491186625-p491186625-2-202205180139.jpg",
+      "name": "Good Life Almond 500 g",
+      "mrp": 549.0,
+      "price": 349.0,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Celebration"
     },
     {
-        "id": 17,
-        "image1": "https://www.jiomart.com/images/product/150x150/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-product-images-o491458245-p491458245-0-202207271957.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-product-images-o491458245-p491458245-1-202207271957.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-legal-images-o491458245-p491458245-2-202207271957.jpg",
-        "name": "Cadbury Celebration",
-        "mrp":  375.00,
-        "price": 300.0
+      "id": 15,
+      "image1": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-1-202205180138.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-legal-images-o491186631-p491186631-2-202205180138.jpg",
+      "name": "Good Life (W320)cashews 500 g",
+      "mrp": 499.0,
+      "price": 399.0,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Britannia"
     },
     {
-        "id": 18,
-        "image1": "https://www.jiomart.com/images/product/150x150/491458246/cadbury-celebrations-130-9-g-product-images-o491458246-p491458246-0-202206281758.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-product-images-o491458246-p491458246-1-202206281758.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-legal-images-o491458246-p491458246-2-202206281758.jpg",
-        "name": "Cadbury Celebration 130.9 g",
-        "mrp":  135.00,
-        "price": 108.0
+      "id": 16,
+      "image1": "https://www.jiomart.com/images/product/150x150/491349617/cadbury-celebration-chocolate-186-6-g-product-images-o491349617-p491349617-0-202207041226.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-product-images-o491349617-p491349617-1-202207041226.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-legal-images-o491349617-p491349617-2-202207041226.jpg",
+      "name": "Cadbury Celebration Chocolate 178.80 g",
+      "mrp": 199.0,
+      "price": 159.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Britannia"
     },
     {
-        "id": 19,
-        "image1": "https://www.jiomart.com/images/product/150x150/490555510/orion-choco-pie-336-g-pack-of-12-product-images-o490555510-p590361054-0-202203150708.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-2-202203150709.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-3-202203150709.jpg",
-        "name": "Orion Choco Pie 28 g (Pack of 12)",
-        "mrp":  150.00,
-        "price": 100.0
+      "id": 17,
+      "image1": "https://www.jiomart.com/images/product/150x150/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-product-images-o491458245-p491458245-0-202207271957.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-product-images-o491458245-p491458245-1-202207271957.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-legal-images-o491458245-p491458245-2-202207271957.jpg",
+      "name": "Cadbury Celebration",
+      "mrp": 375.0,
+      "price": 300.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Sunfeast"
     },
     {
-        "id": 20,
-        "image1": "https://www.jiomart.com/images/product/150x150/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-0-202203151534.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-1-202203151534.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-2-202203151534.jpg",
-        "name": "Parle 20-20 Gold Cashew Almond",
-        "mrp":  190.00,
-        "price": 95.00   
-     },
-    {
-        "id": 21,
-        "image1": "https://www.jiomart.com/images/product/150x150/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-0-202205172329.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-1-202205172329.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-3-202205172329.jpg",
-        "name": "britannia Good Day Chocochip Cookies ",
-        "mrp":  140.00,
-        "price": 70.00    
+      "id": 18,
+      "image1": "https://www.jiomart.com/images/product/150x150/491458246/cadbury-celebrations-130-9-g-product-images-o491458246-p491458246-0-202206281758.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-product-images-o491458246-p491458246-1-202206281758.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-legal-images-o491458246-p491458246-2-202206281758.jpg",
+      "name": "Cadbury Celebration 130.9 g",
+      "mrp": 135.0,
+      "price": 108.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Cadbury"
     },
     {
-        "id": 22,
-        "image1": "https://www.jiomart.com/images/product/150x150/491984416/parle-happy-happy-choco-chip-cookies-400-g-product-images-o491984416-p590309510-0-202203141950.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-product-images-o491984416-p590309510-1-202203141950.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-legal-images-o491984416-p590309510-2-202203141950.jpg",
-        "name": "Parle Happy Happy Choco-Chip Cookies",
-        "mrp":  150.00,
-        "price": 75.00    
+      "id": 19,
+      "image1": "https://www.jiomart.com/images/product/150x150/490555510/orion-choco-pie-336-g-pack-of-12-product-images-o490555510-p590361054-0-202203150708.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-2-202203150709.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-3-202203150709.jpg",
+      "name": "Orion Choco Pie 28 g (Pack of 12)",
+      "mrp": 150.0,
+      "price": 100.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Dove"
     },
     {
-        "id": 23,
-        "image1": "https://www.jiomart.com/images/product/150x150/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-1-202205301919.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-3-202205301919.jpg",
-        "name": "Sunfeast Dark Fantasy Original",
-        "mrp":  170.00,
-        "price": 109.0
+      "id": 20,
+      "image1": "https://www.jiomart.com/images/product/150x150/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-0-202203151534.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-1-202203151534.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-2-202203151534.jpg",
+      "name": "Parle 20-20 Gold Cashew Almond",
+      "mrp": 190.0,
+      "price": 95.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Head-Shoulders"
     },
     {
-        "id": 24,
-        "image1": "https://www.jiomart.com/images/product/150x150/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-product-images-o491696496-p590110608-0-202203170406.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-product-images-o491696496-p590110608-1-202203170406.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-legal-images-o491696496-p590110608-2-202203170406.jpg",
-        "name": "Cadbury Oreo Original Chocolatey",
-        "mrp":  145.00,
-        "price": 95.00   
-     },
-    {
-        "id": 25,
-        "image1": "https://www.jiomart.com/images/product/150x150/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-0-202203142029.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-1-202203142029.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-2-202203142029.jpg",
-        "name": "Dove Nutritive Solutions Hair Fall",
-        "mrp":  740.00,
-        "price": 370.0
+      "id": 21,
+      "image1": "https://www.jiomart.com/images/product/150x150/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-0-202205172329.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-1-202205172329.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-3-202205172329.jpg",
+      "name": "britannia Good Day Chocochip Cookies ",
+      "mrp": 140.0,
+      "price": 70.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Head-Shoulders"
     },
     {
-        "id": 26,
-        "image1": "https://www.jiomart.com/images/product/150x150/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-0-202209221309.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-2-202209221309.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-3-202209221309.jpg",
-        "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo",
-        "mrp":  740.00,
-        "price": 370.0
+      "id": 22,
+      "image1": "https://www.jiomart.com/images/product/150x150/491984416/parle-happy-happy-choco-chip-cookies-400-g-product-images-o491984416-p590309510-0-202203141950.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-product-images-o491984416-p590309510-1-202203141950.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-legal-images-o491984416-p590309510-2-202203141950.jpg",
+      "name": "Parle Happy Happy Choco-Chip Cookies",
+      "mrp": 150.0,
+      "price": 75.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Tresemme"
     },
     {
-        "id": 27,
-        "image1": "https://www.jiomart.com/images/product/150x150/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-0-202203170839.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-2-202203170839.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-3-202203170839.jpg",
-        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo",
-        "mrp":  740.00,
-        "price": 370.0
+      "id": 23,
+      "image1": "https://www.jiomart.com/images/product/150x150/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-0-202205301919.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-1-202205301919.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-3-202205301919.jpg",
+      "name": "Sunfeast Dark Fantasy Original",
+      "mrp": 170.0,
+      "price": 109.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Tresemme"
     },
     {
-        "id": 28,
-        "image1": "https://www.jiomart.com/images/product/150x150/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-0-202203150929.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-1-202203150929.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-2-202203150929.jpg",
-        "name": "Tresemme Hair Fall Defense Shampoo",
-        "mrp":  670.00,
-        "price": 335.0
+      "id": 24,
+      "image1": "https://www.jiomart.com/images/product/150x150/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-product-images-o491696496-p590110608-0-202203170406.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-product-images-o491696496-p590110608-1-202203170406.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-legal-images-o491696496-p590110608-2-202203170406.jpg",
+      "name": "Cadbury Oreo Original Chocolatey",
+      "mrp": 145.0,
+      "price": 95.0,
+      "discount": "50",
+      "category": "Shampoo",
+      "brand": "Lux"
     },
     {
-        "id": 29,
-        "image1": "https://www.jiomart.com/images/product/150x150/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-0-202203151823.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-1-202203151823.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-2-202203151823.jpg",
-        "name": "TRESemme Keratin Smooth Shampoo",
-        "mrp":  670.00,
-        "price": 335.0
+      "id": 25,
+      "image1": "https://www.jiomart.com/images/product/150x150/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-0-202203142029.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-1-202203142029.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-2-202203142029.jpg",
+      "name": "Dove Nutritive Solutions Hair Fall",
+      "mrp": 740.0,
+      "price": 370.0,
+      "discount": "50",
+      "category": "Shampoo",
+      "brand": "Lux"
     },
     {
-        "id": 30,
-        "image1": "https://www.jiomart.com/images/product/150x150/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-0-202203151351.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-1-202203151351.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-2-202203151351.jpg",
-        "name": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar",
-        "mrp":  198.00,
-        "price": 132.0
+      "id": 26,
+      "image1": "https://www.jiomart.com/images/product/150x150/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-0-202209221309.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-2-202209221309.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-3-202209221309.jpg",
+      "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo",
+      "mrp": 740.0,
+      "price": 370.0,
+      "discount": "52",
+      "category": "Shampoo",
+      "brand": "Godrej"
     },
     {
-        "id": 31,
-        "image1": "https://www.jiomart.com/images/product/150x150/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-0-202203150352.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-1-202203150352.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-2-202203150352.jpg",
-        "name": "Lux Jasmine & Vitamin E Soap 150 g (Pack of 3)",
-        "mrp":  198.00,
-        "price": 132.0
+      "id": 27,
+      "image1": "https://www.jiomart.com/images/product/150x150/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-0-202203170839.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-2-202203170839.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-3-202203170839.jpg",
+      "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo",
+      "mrp": 740.0,
+      "price": 370.0,
+      "discount": "51",
+      "category": "Shampoo",
+      "brand": "Gowardhen"
     },
     {
-        "id": 32,
-        "image1": "https://www.jiomart.com/images/product/150x150/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-0-202203170805.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-1-202203170805.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-2-202203170805.jpg",
-        "name": "Godrej No.1 Sandal and Turmeric Soap 150 g (Pack of 4)",
-        "mrp":  189.00,
-        "price": 126.0
+      "id": 28,
+      "image1": "https://www.jiomart.com/images/product/150x150/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-0-202203150929.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-1-202203150929.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-2-202203150929.jpg",
+      "name": "Tresemme Hair Fall Defense Shampoo",
+      "mrp": 670.0,
+      "price": 335.0,
+      "discount": "66",
+      "category": "Shampoo",
+      "brand": "Coca-Cola"
     },
     {
-        "id": 33,
-        "image1": "https://www.jiomart.com/images/product/150x150/490010244/gowardhan-pure-cow-ghee-1-l-pouch-product-images-o490010244-p490010244-0-202203150918.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-product-images-o490010244-p490010244-1-202203150918.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-legal-images-o490010244-p490010244-2-202203150918.jpgg",
-        "name": "Gowardhan Pure Cow Ghee 1 L (Pouch)",
-        "mrp":  629.00,
-        "price": 585.0
+      "id": 29,
+      "image1": "https://www.jiomart.com/images/product/150x150/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-0-202203151823.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-1-202203151823.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-2-202203151823.jpg",
+      "name": "TRESemme Keratin Smooth Shampoo",
+      "mrp": 670.0,
+      "price": 335.0,
+      "discount": "57",
+      "category": "Shampoo",
+      "brand": "Coca-Cola"
     },
     {
-        "id": 34,
-        "image1": "https://www.jiomart.com/images/product/150x150/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-0-202206022121.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-1-202206022121.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-3-202206022121.jpg",
-        "name": "Coca Cola 1.75 L",
-        "mrp":  90.00,
-        "price": 58.00    
+      "id": 30,
+      "image1": "https://www.jiomart.com/images/product/150x150/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-0-202203151351.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-1-202203151351.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-2-202203151351.jpg",
+      "name": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar",
+      "mrp": 198.0,
+      "price": 132.0,
+      "discount": "54",
+      "category": "Soap",
+      "brand": "Nivea"
     },
     {
-        "id": 35,
-        "image1": "https://www.jiomart.com/images/product/150x150/491126478/thums-up-1-75-l-product-images-o491126478-p491126478-0-202203150104.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-product-images-o491126478-p491126478-1-202203150104.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-legal-images-o491126478-p491126478-2-202203150104.jpg",
-        "name": "Thums Up 1.75 L",
-        "mrp":  90.00,
-        "price": 59.00   
-     },
-    {
-        "id": 36,
-        "image1": "https://www.jiomart.com/images/product/150x150/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-0-202208101342.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-1-202208101342.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-2-202208101342.jpg",
-        "name": "Nivea Men Fresh Active Original Deodorant 150 ml",
-        "mrp":  225.00,
-        "price": 112.0
+      "id": 31,
+      "image1": "https://www.jiomart.com/images/product/150x150/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-0-202203150352.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-1-202203150352.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-2-202203150352.jpg",
+      "name": "Lux Jasmine & Vitamin E Soap 150 g (Pack of 3)",
+      "mrp": 198.0,
+      "price": 132.0,
+      "discount": "50",
+      "category": "Soap",
+      "brand": "Park-Avenue"
     },
     {
-        "id": 37,
-        "image1": "https://www.jiomart.com/images/product/150x150/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-product-images-o491317225-p491317225-0-202203252309.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-product-images-o491317225-p491317225-1-202203252309.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-legal-images-o491317225-p491317225-3-202203252309.jpg",
-        "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
-        "mrp":  375.00,
-        "price": 187.0
+      "id": 32,
+      "image1": "https://www.jiomart.com/images/product/150x150/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-0-202203170805.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-1-202203170805.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-2-202203170805.jpg",
+      "name": "Godrej No.1 Sandal and Turmeric Soap 150 g (Pack of 4)",
+      "mrp": 189.0,
+      "price": 126.0,
+      "discount": "57",
+      "category": "Soap",
+      "brand": "Park-Avenue"
     },
     {
-        "id": 38,
-        "image1": "https://www.jiomart.com/images/product/150x150/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-0-202203281304.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-1-202203281304.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-3-202203281304.jpg",
-        "name": "Kamasutra Spark Deodorant Spray for Men 220 ml",
-        "mrp":  360.00,
-        "price": 180.0
+      "id": 33,
+      "image1": "https://www.jiomart.com/images/product/150x150/490010244/gowardhan-pure-cow-ghee-1-l-pouch-product-images-o490010244-p490010244-0-202203150918.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-product-images-o490010244-p490010244-1-202203150918.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-legal-images-o490010244-p490010244-2-202203150918.jpgg",
+      "name": "Gowardhan Pure Cow Ghee 1 L (Pouch)",
+      "mrp": 629.0,
+      "price": 585.0,
+      "discount": "64",
+      "category": "Ghee",
+      "brand": "Gowardhen"
     },
     {
-        "id": 39,
-        "image1": "https://www.jiomart.com/images/product/150x150/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-0-202203151142.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-1-202203151142.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-2-202203151142.jpg",
-        "name": "Nivea Whitening 50 ml for Women",
-        "mrp":  199.00,
-        "price": 132.0
+      "id": 34,
+      "image1": "https://www.jiomart.com/images/product/150x150/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-0-202206022121.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-1-202206022121.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-3-202206022121.jpg",
+      "name": "Coca Cola 1.75 L",
+      "mrp": 90.0,
+      "price": 58.0,
+      "discount": "20",
+      "category": "Soft-Drink",
+      "brand": "Coca-Cola"
     },
     {
-        "id": 40,
-        "image1": "https://www.jiomart.com/images/product/150x150/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-product-images-o491437916-p590048936-0-202205191726.jpg",
-        "image2": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-product-images-o491437916-p590048936-1-202206071707.jpg",
-        "image3": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-legal-images-o491437916-p590048936-3-202205191726.jpg",
-        "name": "Wonderland Foods Dry Fruits Gift Pack 300 g",
-        "mrp":  699.00,
-        "price": 349.0
+      "id": 35,
+      "image1": "https://www.jiomart.com/images/product/150x150/491126478/thums-up-1-75-l-product-images-o491126478-p491126478-0-202203150104.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-product-images-o491126478-p491126478-1-202203150104.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-legal-images-o491126478-p491126478-2-202203150104.jpg",
+      "name": "Thums Up 1.75 L",
+      "mrp": 90.0,
+      "price": 59.0,
+      "discount": "51",
+      "category": "Soft-Drink",
+      "brand": "Coca-Cola"
+    },
+    {
+      "id": 36,
+      "image1": "https://www.jiomart.com/images/product/150x150/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-0-202208101342.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-1-202208101342.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-2-202208101342.jpg",
+      "name": "Nivea Men Fresh Active Original Deodorant 150 ml",
+      "mrp": 225.0,
+      "price": 112.0,
+      "discount": "33",
+      "category": "Shampoo",
+      "brand": "Nivea"
+    },
+    {
+      "id": 37,
+      "image1": "https://www.jiomart.com/images/product/150x150/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-product-images-o491317225-p491317225-0-202203252309.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-product-images-o491317225-p491317225-1-202203252309.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-legal-images-o491317225-p491317225-3-202203252309.jpg",
+      "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
+      "mrp": 375.0,
+      "price": 187.0,
+      "discount": "50",
+      "category": "Perfume",
+      "brand": "Park-Avenue"
+    },
+    {
+      "id": 38,
+      "image1": "https://www.jiomart.com/images/product/150x150/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-0-202203281304.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-1-202203281304.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-3-202203281304.jpg",
+      "name": "Kamasutra Spark Deodorant Spray for Men 220 ml",
+      "mrp": 360.0,
+      "price": 180.0,
+      "discount": "54",
+      "category": "Perfume",
+      "brand": "Kamasutra"
+    },
+    {
+      "id": 39,
+      "image1": "https://www.jiomart.com/images/product/150x150/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-0-202203151142.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-1-202203151142.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-2-202203151142.jpg",
+      "name": "Nivea Whitening 50 ml for Women",
+      "mrp": 199.0,
+      "price": 132.0,
+      "discount": "51",
+      "category": "Perfume",
+      "brand": "Kamasutra"
+    },
+    {
+      "id": 40,
+      "image1": "https://www.jiomart.com/images/product/150x150/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-product-images-o491437916-p590048936-0-202205191726.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-product-images-o491437916-p590048936-1-202206071707.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-legal-images-o491437916-p590048936-3-202205191726.jpg",
+      "name": "Wonderland Foods Dry Fruits Gift Pack 300 g",
+      "mrp": 699.0,
+      "price": 349.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Tata"
     }
-]
+  ]
 }

@@ -1,5 +1,5 @@
+// ***** this is for the groceries card component
 import React from 'react'
-import { useDispatch } from 'react-redux';
 import "../Styles/Groceries.css"
 
 const GroceriesCard = ({ item }) => {

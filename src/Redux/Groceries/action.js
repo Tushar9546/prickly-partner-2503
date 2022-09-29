@@ -1,9 +1,9 @@
 import * as types from "./actionTypes";
 import axios from "axios";
 
-const getGroceriesProducts = (params) => (dispatch) => {
+const getGroceriesProducts = ({page = 1, sort="none", order="none"}, params) => (dispatch) => {
     dispatch({type: types.GET_GROCERIES_REQUEST})
-    return axios.get("http://localhost:8080/groceries", params).then((r) => {
+    return axios.get(`http://localhost:8080/groceries?_sort=${sort}&_order=${order}&_page=${page}&_limit=20`, params).then((r) => {
        return dispatch({
         type: types.GET_GROCERIES_SUCCESS, payload: r.data
        })
