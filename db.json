@@ -1,4 +1,17 @@
 {
+  "username": [
+    {
+      "phnop": "8850902884",
+      "fistname": "Rahul",
+      "lastname": "Nishad",
+      "email": "rahulnishad977@gmail.com",
+      "password": "12345",
+      "repassword": "12345",
+      "otp": "5555",
+      "id": 1
+    }
+    
+  ],
   "fruits-vegitables": [
     {
       "id": 1,
