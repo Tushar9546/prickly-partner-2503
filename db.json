@@ -2188,7 +2188,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
       "name": "Good Life Sugar (M) 1 kg",
       "mrp": 55.0,
-      "price": 46.0
+      "price": 46.0,
+      "discount": "50",
+      "category": "Sugar",
+      "brand": "Tata"
     },
     {
       "id": 2,
@@ -2197,7 +2200,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-legal-images-o490886599-p590041204-4-202203170247.jpg",
       "name": "Bikaji Premium Soanpapdi 450 g",
       "mrp": 100.0,
-      "price": 85.0
+      "price": 85.0,
+      "discount": "50",
+      "category": "Snack",
+      "brand": "Bikaji"
     },
     {
       "id": 3,
@@ -2206,7 +2212,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-3-202203150520.jpg",
       "name": "Bikaji Rasgulla 1 kg",
       "mrp": 289.0,
-      "price": 144.0
+      "price": 144.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Bikaji"
     },
     {
       "id": 4,
@@ -2215,7 +2224,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-2-202203170914.jpg",
       "name": "Bikaji Gulab Jamun 1 Kg",
       "mrp": 289.0,
-      "price": 144.0
+      "price": 144.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Bikaji"
     },
     {
       "id": 5,
@@ -2224,7 +2236,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-legal-images-o491586300-p491586300-2-202208031137.jpg",
       "name": "Snactac Celebrations Soan",
       "mrp": 169.0,
-      "price": 84.0
+      "price": 84.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Dairy-Milk"
     },
     {
       "id": 6,
@@ -2233,7 +2248,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-2-202208031137.jpg",
       "name": "Snactac Celebrations Gulab",
       "mrp": 289.0,
-      "price": 144.0
+      "price": 144.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Dairy-Milk"
     },
     {
       "id": 7,
@@ -2242,7 +2260,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-legal-images-o491135485-p491135485-2-202203170955.jpg",
       "name": "Crave Gulab Jamun 1 Kg",
       "mrp": 299.0,
-      "price": 149.0
+      "price": 149.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Nirlon"
     },
     {
       "id": 8,
@@ -2251,7 +2272,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-2-202203150551.jpg",
       "name": "Crave Eatables Bachubhai's",
       "mrp": 299.0,
-      "price": 149.0
+      "price": 149.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Nirlon"
     },
     {
       "id": 9,
@@ -2260,7 +2284,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-13-20220624.jpg",
       "name": "Saffola Gold Refined Rice Bran and ",
       "mrp": 1310.0,
-      "price": 899.0
+      "price": 899.0,
+      "discount": "50",
+      "category": "Oil",
+      "brand": "Tide"
     },
     {
       "id": 10,
@@ -2269,7 +2296,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-legal-images-o492367966-p590837659-3-202208111657.jpg",
       "name": "Surf Excel Esay wash Detergent ",
       "mrp": 770.0,
-      "price": 620.0
+      "price": 620.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Tide"
     },
     {
       "id": 11,
@@ -2278,7 +2308,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-2-202203151949.jpg",
       "name": "Tide Jasmine & Rose Detergent Powder 5",
       "mrp": 685.0,
-      "price": 535.0
+      "price": 535.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Good-life"
     },
     {
       "id": 12,
@@ -2287,7 +2320,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-3-202203151011.jpg",
       "name": "Ariel Matic Top Load Detergent Powder 4",
       "mrp": 1330.0,
-      "price": 1030.0
+      "price": 1030.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Celebration"
     },
     {
       "id": 13,
@@ -2296,7 +2332,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-3-202204291102.jpg",
       "name": "Surf Excel Matic Top Load Detergent",
       "mrp": 1325.0,
-      "price": 1025.0
+      "price": 1025.0,
+      "discount": "50",
+      "category": "Detergant",
+      "brand": "Celebration"
     },
     {
       "id": 14,
@@ -2305,7 +2344,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-legal-images-o491186625-p491186625-2-202205180139.jpg",
       "name": "Good Life Almond 500 g",
       "mrp": 549.0,
-      "price": 349.0
+      "price": 349.0,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Celebration"
     },
     {
       "id": 15,
@@ -2314,7 +2356,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-legal-images-o491186631-p491186631-2-202205180138.jpg",
       "name": "Good Life (W320)cashews 500 g",
       "mrp": 499.0,
-      "price": 399.0
+      "price": 399.0,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Britannia"
     },
     {
       "id": 16,
@@ -2323,7 +2368,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-legal-images-o491349617-p491349617-2-202207041226.jpg",
       "name": "Cadbury Celebration Chocolate 178.80 g",
       "mrp": 199.0,
-      "price": 159.0
+      "price": 159.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Britannia"
     },
     {
       "id": 17,
@@ -2332,7 +2380,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-legal-images-o491458245-p491458245-2-202207271957.jpg",
       "name": "Cadbury Celebration",
       "mrp": 375.0,
-      "price": 300.0
+      "price": 300.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Sunfeast"
     },
     {
       "id": 18,
@@ -2341,7 +2392,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-legal-images-o491458246-p491458246-2-202206281758.jpg",
       "name": "Cadbury Celebration 130.9 g",
       "mrp": 135.0,
-      "price": 108.0
+      "price": 108.0,
+      "discount": "50",
+      "category": "Chocolate",
+      "brand": "Cadbury"
     },
     {
       "id": 19,
@@ -2350,7 +2404,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-3-202203150709.jpg",
       "name": "Orion Choco Pie 28 g (Pack of 12)",
       "mrp": 150.0,
-      "price": 100.0
+      "price": 100.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Dove"
     },
     {
       "id": 20,
@@ -2359,7 +2416,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-2-202203151534.jpg",
       "name": "Parle 20-20 Gold Cashew Almond",
       "mrp": 190.0,
-      "price": 95.0
+      "price": 95.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Head-Shoulders"
     },
     {
       "id": 21,
@@ -2368,7 +2428,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-3-202205172329.jpg",
       "name": "britannia Good Day Chocochip Cookies ",
       "mrp": 140.0,
-      "price": 70.0
+      "price": 70.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Head-Shoulders"
     },
     {
       "id": 22,
@@ -2377,7 +2440,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-legal-images-o491984416-p590309510-2-202203141950.jpg",
       "name": "Parle Happy Happy Choco-Chip Cookies",
       "mrp": 150.0,
-      "price": 75.0
+      "price": 75.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Tresemme"
     },
     {
       "id": 23,
@@ -2386,7 +2452,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-3-202205301919.jpg",
       "name": "Sunfeast Dark Fantasy Original",
       "mrp": 170.0,
-      "price": 109.0
+      "price": 109.0,
+      "discount": "50",
+      "category": "Cookies",
+      "brand": "Tresemme"
     },
     {
       "id": 24,
@@ -2395,7 +2464,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-legal-images-o491696496-p590110608-2-202203170406.jpg",
       "name": "Cadbury Oreo Original Chocolatey",
       "mrp": 145.0,
-      "price": 95.0
+      "price": 95.0,
+      "discount": "50",
+      "category": "Shampoo",
+      "brand": "Lux"
     },
     {
       "id": 25,
@@ -2404,7 +2476,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-2-202203142029.jpg",
       "name": "Dove Nutritive Solutions Hair Fall",
       "mrp": 740.0,
-      "price": 370.0
+      "price": 370.0,
+      "discount": "50",
+      "category": "Shampoo",
+      "brand": "Lux"
     },
     {
       "id": 26,
@@ -2413,7 +2488,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-3-202209221309.jpg",
       "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo",
       "mrp": 740.0,
-      "price": 370.0
+      "price": 370.0,
+      "discount": "52",
+      "category": "Shampoo",
+      "brand": "Godrej"
     },
     {
       "id": 27,
@@ -2422,7 +2500,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-3-202203170839.jpg",
       "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo",
       "mrp": 740.0,
-      "price": 370.0
+      "price": 370.0,
+      "discount": "51",
+      "category": "Shampoo",
+      "brand": "Gowardhen"
     },
     {
       "id": 28,
@@ -2431,7 +2512,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-2-202203150929.jpg",
       "name": "Tresemme Hair Fall Defense Shampoo",
       "mrp": 670.0,
-      "price": 335.0
+      "price": 335.0,
+      "discount": "66",
+      "category": "Shampoo",
+      "brand": "Coca-Cola"
     },
     {
       "id": 29,
@@ -2440,7 +2524,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-2-202203151823.jpg",
       "name": "TRESemme Keratin Smooth Shampoo",
       "mrp": 670.0,
-      "price": 335.0
+      "price": 335.0,
+      "discount": "57",
+      "category": "Shampoo",
+      "brand": "Coca-Cola"
     },
     {
       "id": 30,
@@ -2449,7 +2536,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-2-202203151351.jpg",
       "name": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar",
       "mrp": 198.0,
-      "price": 132.0
+      "price": 132.0,
+      "discount": "54",
+      "category": "Soap",
+      "brand": "Nivea"
     },
     {
       "id": 31,
@@ -2458,7 +2548,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-2-202203150352.jpg",
       "name": "Lux Jasmine & Vitamin E Soap 150 g (Pack of 3)",
       "mrp": 198.0,
-      "price": 132.0
+      "price": 132.0,
+      "discount": "50",
+      "category": "Soap",
+      "brand": "Park-Avenue"
     },
     {
       "id": 32,
@@ -2467,7 +2560,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-2-202203170805.jpg",
       "name": "Godrej No.1 Sandal and Turmeric Soap 150 g (Pack of 4)",
       "mrp": 189.0,
-      "price": 126.0
+      "price": 126.0,
+      "discount": "57",
+      "category": "Soap",
+      "brand": "Park-Avenue"
     },
     {
       "id": 33,
@@ -2476,7 +2572,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-legal-images-o490010244-p490010244-2-202203150918.jpgg",
       "name": "Gowardhan Pure Cow Ghee 1 L (Pouch)",
       "mrp": 629.0,
-      "price": 585.0
+      "price": 585.0,
+      "discount": "64",
+      "category": "Ghee",
+      "brand": "Gowardhen"
     },
     {
       "id": 34,
@@ -2485,7 +2584,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-3-202206022121.jpg",
       "name": "Coca Cola 1.75 L",
       "mrp": 90.0,
-      "price": 58.0
+      "price": 58.0,
+      "discount": "20",
+      "category": "Soft-Drink",
+      "brand": "Coca-Cola"
     },
     {
       "id": 35,
@@ -2494,7 +2596,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-legal-images-o491126478-p491126478-2-202203150104.jpg",
       "name": "Thums Up 1.75 L",
       "mrp": 90.0,
-      "price": 59.0
+      "price": 59.0,
+      "discount": "51",
+      "category": "Soft-Drink",
+      "brand": "Coca-Cola"
     },
     {
       "id": 36,
@@ -2503,7 +2608,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-2-202208101342.jpg",
       "name": "Nivea Men Fresh Active Original Deodorant 150 ml",
       "mrp": 225.0,
-      "price": 112.0
+      "price": 112.0,
+      "discount": "33",
+      "category": "Shampoo",
+      "brand": "Nivea"
     },
     {
       "id": 37,
@@ -2512,7 +2620,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-legal-images-o491317225-p491317225-3-202203252309.jpg",
       "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
       "mrp": 375.0,
-      "price": 187.0
+      "price": 187.0,
+      "discount": "50",
+      "category": "Perfume",
+      "brand": "Park-Avenue"
     },
     {
       "id": 38,
@@ -2521,7 +2632,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-3-202203281304.jpg",
       "name": "Kamasutra Spark Deodorant Spray for Men 220 ml",
       "mrp": 360.0,
-      "price": 180.0
+      "price": 180.0,
+      "discount": "54",
+      "category": "Perfume",
+      "brand": "Kamasutra"
     },
     {
       "id": 39,
@@ -2530,7 +2644,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-2-202203151142.jpg",
       "name": "Nivea Whitening 50 ml for Women",
       "mrp": 199.0,
-      "price": 132.0
+      "price": 132.0,
+      "discount": "51",
+      "category": "Perfume",
+      "brand": "Kamasutra"
     },
     {
       "id": 40,
@@ -2539,7 +2656,10 @@
       "image3": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-legal-images-o491437916-p590048936-3-202205191726.jpg",
       "name": "Wonderland Foods Dry Fruits Gift Pack 300 g",
       "mrp": 699.0,
-      "price": 349.0
+      "price": 349.0,
+      "discount": "50",
+      "category": "Sweets",
+      "brand": "Tata"
     }
   ]
 }
