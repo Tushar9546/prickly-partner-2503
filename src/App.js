@@ -6,7 +6,7 @@ import GroceriesProducts from './Pages/GroceriesProducts';
 
 
 import './App.css';
-import GroceriesProducts from './Pages/GroceriesProducts';
+// import GroceriesProducts from './Pages/GroceriesProducts';
 
 
 import { Navbar } from './Components/Navbar';
