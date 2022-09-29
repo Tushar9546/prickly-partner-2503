@@ -1,35 +1,15 @@
-import * as types from "./actionTypes";
-import axios from 'axios';
+import * as types from "./actionTypes"
+import axios from "axios";
 
-export const register=(payload)=>(dispatch)=>{
-    dispatch({type:types.USER_REGISTER_REQUEST})
-    return axios.post("https://reqres.in/api/register",payload)
-    .then((res)=>{
-     return dispatch({type:types.USER_REGISTER_SUCCESS,payload:res.data.token})
-      
-    })
-    .catch((err)=>{
-        dispatch({type:types.USER_REGISTER_FAILURE,payload:err})
-
-    })
-
+const getauth=()=>(dispatch)=>{
+ dispatch({type:types.USER_LOGIN_REQ})
+ return axios.get("http://localhost:8080/username").then((r)=>dispatch({type:types.USER_LOGIN_SUCCESS,payload:r.data})).catch
+ ((r)=>{ return dispatch({type:types.USER_LOGIN_FAILURE})})
 }
 
-export const login=(params)=>(dispatch)=>{
-    dispatch({type:types.USER_LOGIN_REQUEST})
-    return axios.post("https://reqres.in/api/login",params)
-    .then((res)=>{
-     return dispatch({type:types.USER_LOGIN_SUCCESS,payload:res.data.token})
-     
-
-    })
-    .catch((err)=>{
-        dispatch({type:types.USER_LOGIN_FAILURE,payload:err})
-
-    })
-
-}
-
-export const logout = (payload) => (dispatch) => {
-    dispatch({type:types.USER_LOGOUT_SUCCESS,payload})
-  }
+const postauth=(data)=>(dispatch)=>{
+    dispatch({type:types.USER_LOGIN_POST_REQ})
+    return axios.post("http://localhost:8080/username",data).then((r)=>dispatch({type:types.USER_LOGIN_POST_SUCCESS,payload:r.data})).catch
+    ((r)=>{ return dispatch({type:types.USER_LOGIN_POST_FAILURE})})
+   }
+export {getauth,postauth}
