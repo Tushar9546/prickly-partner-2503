@@ -1,6 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import { Home } from "./Home";
+import SignIn from "./SignIn";
+import SignUp from "./SignUp";
 import { Women } from "./Women";
 
 export const MainPage = () => {
@@ -9,6 +11,8 @@ export const MainPage = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/fashion/women" element={<Women />} />
+        <Route path="/signin" element={<SignIn/>} />
+        <Route path="/signup" element={<SignUp/>} />
       </Routes>
     </div>
   );
