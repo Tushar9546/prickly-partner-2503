@@ -5,10 +5,10 @@ import Style from "./Navbar.module.css"
 import {BsFillCartFill} from "react-icons/bs"
 import {MdLocationOn} from "react-icons/md"
 import {AiOutlineDown} from "react-icons/ai"
-import {useSearchParams} from "react-router-dom"
+import {Link, useSearchParams} from "react-router-dom"
 import { useState } from 'react'
 import axios from "axios"
-import {useDisclosure, Drawer, DrawerOverlay,DrawerContent,DrawerCloseButton, DrawerHeader, DrawerBody, Input, Button} from "@chakra-ui/react"
+import {useDisclosure, Drawer, DrawerOverlay,DrawerContent,DrawerCloseButton, DrawerHeader, DrawerBody, Input, Button, Menu, MenuList, MenuItem, MenuButton} from "@chakra-ui/react"
 
 
 export const Navbar = () => {
@@ -113,7 +113,9 @@ useEffect(()=>{
        
        
         <div>
+          <Link to={"/"}>
             <img width="110px" src="https://www.jiomart.com/assets/version1662994539/smartweb/images/jiomart_logo_beta.svg" />
+            </Link>
         </div>
 
         <div>
@@ -137,44 +139,160 @@ useEffect(()=>{
           <div className={Style.locationdiv} >Deliver to <span className={Style.spanstyle} style={{color:"black", fontWeight:"600", fontSize:"14px"}} >400020</span>
           </div>
         </div>
-  
-          <div className={Style.navbar2style1}>
+
+          {/* menu */}
+          <Menu isLazy>
+            <MenuButton> <div className={Style.navbar2style1}>
             <p>Groceries</p>
-  
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+       </MenuButton>
+         
+    {/* MenuItems are not rendered unless Menu is open */}
+    <MenuList style={{backgroundColor:"#f2e8e8"}}>
 
+      <MenuItem><Link to={"/groceriesproducts"}>Groceries</Link>
+
+     </MenuItem>
+      <MenuItem>Dairy & Bakery</MenuItem>
+      <MenuItem>Staples</MenuItem>
+      <MenuItem>Snacks & Branded Foods</MenuItem>
+      <MenuItem>Beverages</MenuItem>
+      <MenuItem>Personal Care</MenuItem>
+    </MenuList>
+  
+         </Menu>
+
+
+
+        <Menu isLazy>
+          <MenuButton>
          <div className={Style.navbar2style1}>
             <p>Premium Fruits</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+     
+         <MenuList style={{backgroundColor:"#f2e8e8"}}>
+          <MenuItem>Apples & Pears</MenuItem>
+          <MenuItem>Avocada, Peach , Plum</MenuItem>
+          <MenuItem>Banana, Melons & Coconut</MenuItem>
+          <MenuItem>Fruits</MenuItem>
+          <MenuItem>Citrus, Mango & Grapes</MenuItem>
+          <MenuItem>Dates</MenuItem>
+          <MenuItem>Gift, Assorted & XL Packs</MenuItem>
+          <MenuItem>Oragnic</MenuItem>
+          <MenuItem>Pomegranate, Papaya & Pineapple</MenuItem>
+          <MenuItem>Seasonal & Minor Fruits</MenuItem>
+         </MenuList>
+      </Menu>
 
+       <Menu isLazy>
+        <MenuButton>
          <div className={Style.navbar2style1}>
             <p>Home & Kitchen</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+         <MenuList style={{backgroundColor:"#f2e8e8"}}>
+          <MenuItem>Kitcehnware </MenuItem>
+          <MenuItem>Dining</MenuItem>
+          <MenuItem>Furnishing</MenuItem>
+          <MenuItem>Home Decor</MenuItem>
+          <MenuItem>Garden & Outdoor</MenuItem>
+          <MenuItem>Pooja Needs</MenuItem>
+          <MenuItem>Bathroom & Laundry</MenuItem>
+          <MenuItem>Home Appliances</MenuItem>
+          <MenuItem>Accessories</MenuItem>
+          <MenuItem>Stationery</MenuItem>
+          <MenuItem>Auto Care</MenuItem>
+          <MenuItem>Packing Supplies</MenuItem>
+          <MenuItem>Supplies</MenuItem>
+          <MenuItem>Toys, Games & Fitness</MenuItem>
+         </MenuList>
+         </Menu>
 
-         <div className={Style.navbar2style1}>
+           <Menu isLazy>
+            <MenuButton>
+            <div className={Style.navbar2style1}>
             <p>Fashion</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+       <MenuList style={{backgroundColor:"#f2e8e8"}}>
+      <MenuItem>Men</MenuItem>
+      <MenuItem><Link to={"/fashion/women"}>Women</Link> </MenuItem>
+      <MenuItem>Boys</MenuItem>
+      <MenuItem>Girls</MenuItem>
+      <MenuItem>Infants</MenuItem>
+    </MenuList>
+    </Menu>
 
+
+
+         <Menu isLazy>
+          <MenuButton>
          <div className={Style.navbar2style1}>
             <p>Electronics</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+         <MenuList style={{backgroundColor:"#f2e8e8"}}>
+          <MenuItem>Mobiles & Tables</MenuItem>
+          <MenuItem>TV & Speaker</MenuItem>
+          <MenuItem>Home Appliances</MenuItem>
+          <MenuItem>Computers</MenuItem>
+          <MenuItem>Cameras</MenuItem>
+          <MenuItem>Kitchen Appliances</MenuItem>
+          <MenuItem>Personal Care & Grooming</MenuItem>
+          <MenuItem>Smart Devices</MenuItem>
+          <MenuItem>Gaming</MenuItem>
+          <MenuItem>Accessories</MenuItem>
+          <MenuItem>Phones</MenuItem>
+          <MenuItem>office Products</MenuItem>
+          <MenuItem>health Care Devices</MenuItem>
+        </MenuList>
+         </Menu>
 
 
+       <Menu isLazy>
+        <MenuButton>
          <div className={Style.navbar2style1}>
             <p>Beauty</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+         <MenuList style={{backgroundColor:"#f2e8e8"}}>
+          <MenuItem>Make-Up</MenuItem>
+          <MenuItem>hair</MenuItem>
+          <MenuItem>Skin Care</MenuItem>
+          <MenuItem>Fragrances</MenuItem>
+          <MenuItem>Personal care</MenuItem>
+          <MenuItem>Mom & Baby</MenuItem>
+          <MenuItem>Men's Growing</MenuItem>
+          <MenuItem>Tools & Appliances Devices</MenuItem>
+          <MenuItem>Covid Essentials</MenuItem>
+          <MenuItem>Wellness</MenuItem>
+          <MenuItem>Fitness</MenuItem>
+          <MenuItem>Ayush Products</MenuItem>
+          <MenuItem>Treatments</MenuItem>
+        </MenuList>
+        </Menu>
 
+
+         <Menu isLazy>
+          <MenuButton>
          <div className={Style.navbar2style1}>
             <p>Jewellery</p>
             <AiOutlineDown style={{color:"gray"}} />
          </div>
+         </MenuButton>
+         <MenuList style={{backgroundColor:"#f2e8e8"}}>
+      <MenuItem>Fine Jewellery</MenuItem>
+      <MenuItem>Jewellery</MenuItem>
 
+    </MenuList>
+    </Menu>
          
        </div>
 
