@@ -2,12 +2,13 @@ import axios from "axios";
 import * as types from "./actionTypes";
 
 export const fetchWomenData =
-  ({ page = 1, sort = "none", order = "none" }) =>
+  ({ page = 1, sort = "none", order = "none" }, params) =>
   (dispatch) => {
     dispatch({ type: types.GET_WOMENDATA_REQUEST });
     return axios
       .get(
-        `http://localhost:8080/womens?_sort=${sort}&_order=${order}&_page=${page}&_limit=16`
+        `http://localhost:8080/womens?_sort=${sort}&_order=${order}&_page=${page}&_limit=16`,
+        params
       )
       .then((res) => {
         return dispatch({

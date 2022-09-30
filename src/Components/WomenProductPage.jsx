@@ -4,22 +4,32 @@ import { fetchWomenData } from "../Redux/WomenReducer/action";
 import { Pagination } from "./Pagination";
 import Style from "./Women.module.css";
 import { WomenProductCardPage } from "./WomenProductCardPage";
+import { useLocation, useSearchParams } from "react-router-dom";
 
 export const WomenProductPage = () => {
   const womenData = useSelector((state) => state.WomenReducer.women);
   const dispatch = useDispatch();
   const [page, setPage] = useState(1);
+  const [searchParams] = useSearchParams();
+  const location = useLocation();
 
   const handlePageChange = (change) => {
     setPage((prev) => prev + change);
   };
 
   useEffect(() => {
-    dispatch(fetchWomenData({ page }));
-  }, [page]);
+    if (location || womenData.length === 0) {
+      let payload = {
+        params: {
+          category: searchParams.getAll("category"),
+          brand: searchParams.getAll("brand"),
+        },
+      };
+      dispatch(fetchWomenData({ page }, payload));
+    }
+  }, [page, location.search]);
 
   const handleSortBy = (sort, order) => {
-    // console.log(sort,order)
     dispatch(fetchWomenData({ sort, order }));
   };
 
@@ -29,6 +39,7 @@ export const WomenProductPage = () => {
         <img
           src="https://www.jiomart.com/images/category/493/women-20200831.jpg"
           alt="women-icons"
+          width={"100%"}
         />
       </div>
       <div className={Style.sortBy_main_div}>

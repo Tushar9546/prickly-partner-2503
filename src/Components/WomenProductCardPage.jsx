@@ -17,6 +17,7 @@ export const WomenProductCardPage = ({
             height: "40px",
             borderRadius: "50%",
             display: "flex",
+            textAlign: "center",
             alignItems: "center",
             justifyContent: "center",
             fontSize: "12px",
