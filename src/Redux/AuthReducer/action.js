@@ -12,4 +12,8 @@ const postauth=(data)=>(dispatch)=>{
     return axios.post("http://localhost:8080/username",data).then((r)=>dispatch({type:types.USER_LOGIN_POST_SUCCESS,payload:r.data})).catch
     ((r)=>{ return dispatch({type:types.USER_LOGIN_POST_FAILURE})})
    }
-export {getauth,postauth}
+
+const logout = (payload) => (dispatch) => {
+    dispatch({ type: types.USER_LOGOUT_SUCCESS, payload });
+  };
+export {getauth,postauth,logout};

@@ -20,14 +20,13 @@ function App() {
     <div className="App">
 
 
-      <GroceriesProducts />
+      {/* <GroceriesProducts /> */}
 
      <Navbar/>
      <MainPage/>
      <MobileTablet />
 
-      <Navbar />
-      <MainPage />
+    
 
     </div>
   );

@@ -3,11 +3,13 @@ import thunk from "redux-thunk";
 import { reducer as GroceriesReducer } from "./Groceries/reducer";
 import { AuthReducer as authreducer} from "./AuthReducer/reducer";
 import { reducer as WomenReducer } from "./WomenReducer/reducer";
+import { cartReducer } from "./CartReducer/reducer";
 
 const rootReducer = combineReducers({
   authreducer,
   GroceriesReducer,
   WomenReducer,
+  cartReducer
 });
 
 const store = legacy_createStore(rootReducer, applyMiddleware(thunk));
