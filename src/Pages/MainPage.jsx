@@ -29,8 +29,12 @@ export const MainPage = () => {
         <Route path="/payment" element={<PaymentPage />} />
         <Route path="/orderplaced" element={<OrderConfirmedPage />} />
         <Route path="/fashion/women/:id" element={<ProductDetailPage />} />
+
       
         <Route path="/mobileProducts" element={<MobileProducts />} />
+
+        <Route path="/:section/:id" element={<ProductDetailPage />} />
+
       </Routes>
     </div>
   );
