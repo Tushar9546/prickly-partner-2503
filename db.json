@@ -21,9 +21,21 @@
       "id": 2
     }
   ],
-
-  "Cart": [{}],
-
+  "Cart": [
+    {},
+    {
+      "id": 1,
+      "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-1-202204281542.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
+      "name": "Good Life Sugar (M) 1 kg",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Sugar",
+      "brand": "Tata"
+    }
+  ],
   "fruits-vegitables": [
     {
       "id": 1,
@@ -31,7 +43,6 @@
       "postId": 1
     }
   ],
-
   "Apples-Pears": [
     {
       "id": 1,
@@ -39,7 +50,7 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
-      "price": 119.0,
+      "price": 119,
       "strikeMrp": 140,
       "discountPercentage": "15% OFF"
     },
@@ -49,8 +60,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
-      "price": 79.0,
-      "strikeMrp": 89.0,
+      "price": 79,
+      "strikeMrp": 89,
       "discountPercentage": "11% OFF"
     },
     {
@@ -59,8 +70,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599990134/orange-nagpur-premium-indian-4-pcs-approx-720-g-950-g-product-images-o599990134-p593160807-0-202209150009.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599990134/orange-nagpur-premium-indian-4-pcs-approx-720-g-950-g-product-images-o599990134-p593160807-1-202209150009.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599990134/orange-nagpur-premium-indian-4-pcs-approx-720-g-950-g-product-images-o599990134-p593160807-2-202209150009.jpg",
-      "price": 149.0,
-      "strikeMrp": 180.0,
+      "price": 149,
+      "strikeMrp": 180,
       "discountPercentage": "12% OFF"
     },
     {
@@ -69,8 +80,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/593160817/apple-shimla-premium-indian-4-pc-approx-760-g-960-g-0-20220727.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/593160817/apple-shimla-premium-indian-4-pc-approx-760-g-960-g-1-20220727.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/593160817/apple-shimla-premium-indian-4-pc-approx-760-g-960-g-2-20220727.jpg",
-      "price": 179.0,
-      "strikeMrp": 200.0,
+      "price": 179,
+      "strikeMrp": 200,
       "discountPercentage": "25% OFF"
     },
     {
@@ -79,8 +90,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
-      "price": 229.0,
-      "strikeMrp": 300.0,
+      "price": 229,
+      "strikeMrp": 300,
       "discountPercentage": "23% OFF"
     },
     {
@@ -89,8 +100,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599990932/blueberry-premium-imported-pack-125-g-product-images-o599990932-p590860270-0-202207282047.jpg",
-      "price": 229.0,
-      "strikeMrp": 300.0,
+      "price": 229,
+      "strikeMrp": 300,
       "discountPercentage": "23% OFF"
     },
     {
@@ -99,8 +110,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991100/dates-oriental-king-solomon-premium-imported-pack-500-g-product-images-o599991100-p591021568-1-202207282047.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991100/dates-oriental-king-solomon-premium-imported-pack-500-g-product-images-o599991100-p591021568-1-202207282047.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991100/dates-oriental-king-solomon-premium-imported-pack-500-g-product-images-o599991100-p591021568-2-202207282047.jpg",
-      "price": 269.0,
-      "strikeMrp": 475.0,
+      "price": 269,
+      "strikeMrp": 475,
       "discountPercentage": "43% OFF"
     },
     {
@@ -109,8 +120,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991444/curate-s-signature-fruit-box-premium-imported-1-pack-product-images-o599991444-p591778568-0-202209231748.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991444/curate-s-signature-fruit-box-premium-imported-1-pack-product-images-o599991444-p591778568-0-202209231748.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991444/curate-s-signature-fruit-box-premium-imported-1-pack-product-images-o599991444-p591778568-0-202209231748.jpg",
-      "price": 999.0,
-      "strikeMrp": 1199.0,
+      "price": 999,
+      "strikeMrp": 1199,
       "discountPercentage": "14% OFF"
     },
     {
@@ -119,8 +130,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991443/curate-s-bliss-fruit-box-premium-imported-1-pack-product-images-o599991443-p591778567-0-202209231748.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991443/curate-s-bliss-fruit-box-premium-imported-1-pack-product-images-o599991443-p591778567-0-202209231748.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991443/curate-s-bliss-fruit-box-premium-imported-1-pack-product-images-o599991443-p591778567-0-202209231748.jpg",
-      "price": 799.0,
-      "strikeMrp": 850.0,
+      "price": 799,
+      "strikeMrp": 850,
       "discountPercentage": "15% OFF"
     },
     {
@@ -129,8 +140,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991442/curate-s-delight-fruit-box-premium-imported-1-pack-product-images-o599991442-p591778566-0-202209231748.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991442/curate-s-delight-fruit-box-premium-imported-1-pack-product-images-o599991442-p591778566-0-202209231748.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991442/curate-s-delight-fruit-box-premium-imported-1-pack-product-images-o599991442-p591778566-0-202209231748.jpg",
-      "price": 599.0,
-      "strikeMrp": 700.0,
+      "price": 599,
+      "strikeMrp": 700,
       "discountPercentage": "23% OFF"
     },
     {
@@ -139,8 +150,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599990226/dragonfruit-red-flesh-premium-indian-1-pc-approx-300-g-450-g-product-images-o599990226-p590860310-0-202207282046.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599990226/dragonfruit-red-flesh-premium-indian-1-pc-approx-300-g-450-g-product-images-o599990226-p590860310-1-202207282046.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599990226/dragonfruit-red-flesh-premium-indian-1-pc-approx-300-g-450-g-product-images-o599990226-p590860310-2-202207282046.jpg",
-      "price": 169.0,
-      "strikeMrp": 220.0,
+      "price": 169,
+      "strikeMrp": 220,
       "discountPercentage": "35% OFF"
     },
     {
@@ -149,8 +160,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-kg-1-12-kg-product-images-o599991204-p591041952-0-202207282047.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-kg-1-12-kg-product-images-o599991204-p591041952-1-202207282047.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991204/pomegranate-kesar-medium-premium-indian-4-pc-approx-1-kg-1-12-kg-product-images-o599991204-p591041952-1-202207282047.jpg",
-      "price": 429.0,
-      "strikeMrp": 500.0,
+      "price": 429,
+      "strikeMrp": 500,
       "discountPercentage": "15% OFF"
     },
     {
@@ -159,8 +170,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991125/apple-pink-lady-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991125-p591001137-0-202207282046.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991125/apple-pink-lady-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991125-p591001137-1-202207282046.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991125/apple-pink-lady-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991125-p591001137-2-202207282046.jpg",
-      "price": 299.0,
-      "strikeMrp": 350.0,
+      "price": 299,
+      "strikeMrp": 350,
       "discountPercentage": "14% OFF"
     },
     {
@@ -169,8 +180,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991400/apple-jazz-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991400-p591778599-0-202207282047.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991400/apple-jazz-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991400-p591778599-1-202207282047.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991400/apple-jazz-premium-imported-4-pc-approx-740-g-860-g-product-images-o599991400-p591778599-2-202207282047.jpg",
-      "price": 339.0,
-      "strikeMrp": 400.0,
+      "price": 339,
+      "strikeMrp": 400,
       "discountPercentage": "22% OFF"
     },
     {
@@ -179,8 +190,8 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/599991123/apple-diva-premium-imported-4-pc-approx-700-g-800-g-product-images-o599991123-p591001138-0-202207282046.jpg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/599991123/apple-diva-premium-imported-4-pc-approx-700-g-800-g-product-images-o599991123-p591001138-1-202207282046.jpg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/599991123/apple-diva-premium-imported-4-pc-approx-700-g-800-g-product-images-o599991123-p591001138-2-202207282046.jpg",
-      "price": 439.0,
-      "strikeMrp": 480.0,
+      "price": 439,
+      "strikeMrp": 480,
       "discountPercentage": "14% OFF"
     },
     {
@@ -634,7 +645,6 @@
       "discountPercentage": "15% OFF"
     }
   ],
-
   "kitchenwares": [
     {
       "id": 1,
@@ -646,7 +656,6 @@
       "strikeMrp": "₹ 799.00",
       "discountPercentage": "15% OFF"
     },
-
     {
       "id": 2,
       "name": "Sigri-Wala 3 Burner Designer Toughened Glass Manual Gas Stove",
@@ -657,7 +666,6 @@
       "strikeMrp": "₹ 9000.00",
       "discountPercentage": "79% OFF"
     },
-
     {
       "id": 3,
       "name": "Faverito Black Square Airtight Plastic Container 1100 ml For Kitchen Storage (Set of 12)",
@@ -668,7 +676,6 @@
       "strikeMrp": " ₹ 1,999.00  ",
       "discountPercentage": "60%"
     },
-
     {
       "id": 4,
       "name": "Home One Assorted Plastic Container 180 ml (Set of 4)",
@@ -679,7 +686,6 @@
       "strikeMrp": "₹ 125.00",
       "discountPercentage": "44% OFF"
     },
-
     {
       "id": 5,
       "name": "Butterfly Curve Stainless Steel Pressure Cooker 5 L with Outer Lid",
@@ -690,7 +696,6 @@
       "strikeMrp": "₹ 4,851.00",
       "discountPercentage": "60% OFF"
     },
-
     {
       "id": 6,
       "name": "Asian Mini Meal Blue Round Insulated 2 Container Lunch Box 350 ml",
@@ -701,7 +706,6 @@
       "strikeMrp": "₹ 175.00 ",
       "discountPercentage": "43% OFF"
     },
-
     {
       "id": 7,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -712,7 +716,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 8,
       "name": "Home One Pink Plastic Masala Box",
@@ -723,7 +726,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50%"
     },
-
     {
       "id": 9,
       "name": "Everest Plastic Mesh Strainer",
@@ -734,7 +736,6 @@
       "strikeMrp": "₹ 29.00",
       "discountPercentage": "34% OFF"
     },
-
     {
       "id": 10,
       "name": "Home One EasyTwist Brown Printed Plastic Container 1.5 L (Set of 3) HOME ONE",
@@ -755,7 +756,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50% OFF"
     },
-
     {
       "id": 12,
       "name": "Polyset Lock It Rectangular Plastic Container 175 ml (Set of 2)",
@@ -766,7 +766,6 @@
       "strikeMrp": "₹ 165.00",
       "discountPercentage": "52% OFF"
     },
-
     {
       "id": 13,
       "name": "Home One Duo Red Plastic & Steel Container 300 ml (Set of 2)",
@@ -777,7 +776,6 @@
       "strikeMrp": " ₹ 275.00  ",
       "discountPercentage": "53%"
     },
-
     {
       "id": 14,
       "name": "Home One Stainless Steel Deep Dabba (Set of 3) (No. 101112)",
@@ -788,7 +786,6 @@
       "strikeMrp": "₹ 555.00",
       "discountPercentage": "46% OFF"
     },
-
     {
       "id": 15,
       "name": "Home One Wave Blue Plastic Water Bottle 1 L (Set of 4)",
@@ -799,7 +796,6 @@
       "strikeMrp": "₹ 249.00",
       "discountPercentage": "48% OFF"
     },
-
     {
       "id": 16,
       "name": "Home One Stainless Steel Induction Bottom Kadai (Size 12)",
@@ -810,7 +806,6 @@
       "strikeMrp": "₹ 387.00 ",
       "discountPercentage": "22% OFF"
     },
-
     {
       "id": 17,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -821,7 +816,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 18,
       "name": "Roxx Stainless Steel Basic Bullet Flask 1 L",
@@ -832,7 +826,6 @@
       "strikeMrp": "₹ 1075.00",
       "discountPercentage": "43%"
     },
-
     {
       "id": 19,
       "name": "Home One Premium Stainless Steel Bowl (No. 55)",
@@ -843,7 +836,6 @@
       "strikeMrp": "₹ 43.00",
       "discountPercentage": "18% OFF"
     },
-
     {
       "id": 20,
       "name": "Home One EasyTwist Pink Printed Plastic Container 1.5 L (Set of 3)",
@@ -854,7 +846,6 @@
       "strikeMrp": "₹ 349.00",
       "discountPercentage": "63% OFF"
     },
-
     {
       "id": 21,
       "name": "Kreyam's Turbo blue plastic Vegitable & Fruite Chopper 900 ml",
@@ -865,7 +856,6 @@
       "strikeMrp": "₹ 799.00",
       "discountPercentage": "15% OFF"
     },
-
     {
       "id": 22,
       "name": "Sigri-Wala 3 Burner Designer Toughened Glass Manual Gas Stove",
@@ -876,7 +866,6 @@
       "strikeMrp": "₹ 9000.00",
       "discountPercentage": "79% OFF"
     },
-
     {
       "id": 23,
       "name": "Faverito Black Square Airtight Plastic Container 1100 ml For Kitchen Storage (Set of 12)",
@@ -887,7 +876,6 @@
       "strikeMrp": " ₹ 1,999.00  ",
       "discountPercentage": "60%"
     },
-
     {
       "id": 24,
       "name": "Home One Assorted Plastic Container 180 ml (Set of 4)",
@@ -898,7 +886,6 @@
       "strikeMrp": "₹ 125.00",
       "discountPercentage": "44% OFF"
     },
-
     {
       "id": 25,
       "name": "Butterfly Curve Stainless Steel Pressure Cooker 5 L with Outer Lid",
@@ -909,7 +896,6 @@
       "strikeMrp": "₹ 4,851.00",
       "discountPercentage": "60% OFF"
     },
-
     {
       "id": 26,
       "name": "Asian Mini Meal Blue Round Insulated 2 Container Lunch Box 350 ml",
@@ -920,7 +906,6 @@
       "strikeMrp": "₹ 175.00 ",
       "discountPercentage": "43% OFF"
     },
-
     {
       "id": 27,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -931,7 +916,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 28,
       "name": "Home One Pink Plastic Masala Box",
@@ -942,7 +926,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50%"
     },
-
     {
       "id": 29,
       "name": "Everest Plastic Mesh Strainer",
@@ -953,7 +936,6 @@
       "strikeMrp": "₹ 29.00",
       "discountPercentage": "34% OFF"
     },
-
     {
       "id": 30,
       "name": "Home One EasyTwist Brown Printed Plastic Container 1.5 L (Set of 3) HOME ONE",
@@ -974,7 +956,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50% OFF"
     },
-
     {
       "id": 32,
       "name": "Polyset Lock It Rectangular Plastic Container 175 ml (Set of 2)",
@@ -985,7 +966,6 @@
       "strikeMrp": "₹ 165.00",
       "discountPercentage": "52% OFF"
     },
-
     {
       "id": 33,
       "name": "Home One Duo Red Plastic & Steel Container 300 ml (Set of 2)",
@@ -996,7 +976,6 @@
       "strikeMrp": " ₹ 275.00  ",
       "discountPercentage": "53%"
     },
-
     {
       "id": 34,
       "name": "Home One Stainless Steel Deep Dabba (Set of 3) (No. 101112)",
@@ -1007,7 +986,6 @@
       "strikeMrp": "₹ 555.00",
       "discountPercentage": "46% OFF"
     },
-
     {
       "id": 35,
       "name": "Home One Wave Blue Plastic Water Bottle 1 L (Set of 4)",
@@ -1018,7 +996,6 @@
       "strikeMrp": "₹ 249.00",
       "discountPercentage": "48% OFF"
     },
-
     {
       "id": 36,
       "name": "Home One Stainless Steel Induction Bottom Kadai (Size 12)",
@@ -1029,7 +1006,6 @@
       "strikeMrp": "₹ 387.00 ",
       "discountPercentage": "22% OFF"
     },
-
     {
       "id": 37,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -1040,7 +1016,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 38,
       "name": "Roxx Stainless Steel Basic Bullet Flask 1 L",
@@ -1051,7 +1026,6 @@
       "strikeMrp": "₹ 1075.00",
       "discountPercentage": "43%"
     },
-
     {
       "id": 39,
       "name": "Home One Premium Stainless Steel Bowl (No. 55)",
@@ -1062,7 +1036,6 @@
       "strikeMrp": "₹ 43.00",
       "discountPercentage": "18% OFF"
     },
-
     {
       "id": 40,
       "name": "Home One EasyTwist Pink Printed Plastic Container 1.5 L (Set of 3)",
@@ -1073,7 +1046,6 @@
       "strikeMrp": "₹ 349.00",
       "discountPercentage": "63% OFF"
     },
-
     {
       "id": 41,
       "name": "Kreyam's Turbo blue plastic Vegitable & Fruite Chopper 900 ml",
@@ -1084,7 +1056,6 @@
       "strikeMrp": "₹ 799.00",
       "discountPercentage": "15% OFF"
     },
-
     {
       "id": 42,
       "name": "Sigri-Wala 3 Burner Designer Toughened Glass Manual Gas Stove",
@@ -1095,7 +1066,6 @@
       "strikeMrp": "₹ 9000.00",
       "discountPercentage": "79% OFF"
     },
-
     {
       "id": 43,
       "name": "Faverito Black Square Airtight Plastic Container 1100 ml For Kitchen Storage (Set of 12)",
@@ -1106,7 +1076,6 @@
       "strikeMrp": " ₹ 1,999.00  ",
       "discountPercentage": "60%"
     },
-
     {
       "id": 44,
       "name": "Home One Assorted Plastic Container 180 ml (Set of 4)",
@@ -1117,7 +1086,6 @@
       "strikeMrp": "₹ 125.00",
       "discountPercentage": "44% OFF"
     },
-
     {
       "id": 45,
       "name": "Butterfly Curve Stainless Steel Pressure Cooker 5 L with Outer Lid",
@@ -1128,7 +1096,6 @@
       "strikeMrp": "₹ 4,851.00",
       "discountPercentage": "60% OFF"
     },
-
     {
       "id": 46,
       "name": "Asian Mini Meal Blue Round Insulated 2 Container Lunch Box 350 ml",
@@ -1139,7 +1106,6 @@
       "strikeMrp": "₹ 175.00 ",
       "discountPercentage": "43% OFF"
     },
-
     {
       "id": 47,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -1150,7 +1116,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 48,
       "name": "Home One Pink Plastic Masala Box",
@@ -1161,7 +1126,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50%"
     },
-
     {
       "id": 49,
       "name": "Everest Plastic Mesh Strainer",
@@ -1172,7 +1136,6 @@
       "strikeMrp": "₹ 29.00",
       "discountPercentage": "34% OFF"
     },
-
     {
       "id": 50,
       "name": "Home One EasyTwist Brown Printed Plastic Container 1.5 L (Set of 3) HOME ONE",
@@ -1193,7 +1156,6 @@
       "strikeMrp": "₹ 199.00",
       "discountPercentage": "50% OFF"
     },
-
     {
       "id": 52,
       "name": "Polyset Lock It Rectangular Plastic Container 175 ml (Set of 2)",
@@ -1204,7 +1166,6 @@
       "strikeMrp": "₹ 165.00",
       "discountPercentage": "52% OFF"
     },
-
     {
       "id": 53,
       "name": "Home One Duo Red Plastic & Steel Container 300 ml (Set of 2)",
@@ -1215,7 +1176,6 @@
       "strikeMrp": " ₹ 275.00  ",
       "discountPercentage": "53%"
     },
-
     {
       "id": 54,
       "name": "Home One Stainless Steel Deep Dabba (Set of 3) (No. 101112)",
@@ -1226,7 +1186,6 @@
       "strikeMrp": "₹ 555.00",
       "discountPercentage": "46% OFF"
     },
-
     {
       "id": 55,
       "name": "Home One Wave Blue Plastic Water Bottle 1 L (Set of 4)",
@@ -1237,7 +1196,6 @@
       "strikeMrp": "₹ 249.00",
       "discountPercentage": "48% OFF"
     },
-
     {
       "id": 56,
       "name": "Home One Stainless Steel Induction Bottom Kadai (Size 12)",
@@ -1248,7 +1206,6 @@
       "strikeMrp": "₹ 387.00 ",
       "discountPercentage": "22% OFF"
     },
-
     {
       "id": 57,
       "name": "Polyset Twisty Threaded Pink Plastic Container Set (9 pcs) ",
@@ -1259,7 +1216,6 @@
       "strikeMrp": "₹ 399.00 ",
       "discountPercentage": "32% OFF"
     },
-
     {
       "id": 58,
       "name": "Roxx Stainless Steel Basic Bullet Flask 1 L",
@@ -1270,7 +1226,6 @@
       "strikeMrp": "₹ 1075.00",
       "discountPercentage": "43%"
     },
-
     {
       "id": 59,
       "name": "Home One Premium Stainless Steel Bowl (No. 55)",
@@ -1281,7 +1236,6 @@
       "strikeMrp": "₹ 43.00",
       "discountPercentage": "18% OFF"
     },
-
     {
       "id": 60,
       "name": "Home One EasyTwist Pink Printed Plastic Container 1.5 L (Set of 3)",
@@ -1293,7 +1247,6 @@
       "discountPercentage": "63% OFF"
     }
   ],
-
   "mens": [
     {
       "id": 1,
@@ -1301,7 +1254,6 @@
       "postId": 1
     }
   ],
-
   "womens": [
     {
       "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/rhode/rhode303391d3cd/rhode303391d3cd_1651071954047_2-0._UY0_QL90_.jpg",
@@ -1310,7 +1262,6 @@
       "price": "445.00",
       "discount": "50"
     },
-
     {
       "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1033910739/natio1033910739_q1_2-0._SH20_QL90_UY365_.jpg",
       "title": "Nation LTD",
@@ -1600,7 +1551,6 @@
       "price": "375.00",
       "discount": "70"
     },
-
     {
       "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/tgrea/tgrea310171d58a/tgrea310171d58a_1649802938404_2-0._QL90_UX207_.jpg",
       "title": "RAILS",
@@ -1699,7 +1649,6 @@
       "price": "398.00",
       "discount": "34"
     },
-
     {
       "image": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/natio/natio1033910739/natio1033910739_q1_2-0._SH20_QL90_UY365_.jpg",
       "title": "Nation LTD",
@@ -2030,7 +1979,6 @@
       "discount": "50"
     }
   ],
-
   "mobile-tablets": [
     {
       "id": 1,
@@ -2993,7 +2941,6 @@
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     }
   ],
-
   "make-up": [
     {
       "id": 1,
@@ -3777,7 +3724,6 @@
       "imgLink1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
       "imgLink2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
       "imgLink3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
-
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -4388,7 +4334,6 @@
       "category": "electronics",
       "price": 499,
       "discount": "68% OFF",
-
       "imgLink1": "https://www.jiomart.com/images/product/150x150/rv4cbcr5ip/portronics-modesk-200-universal-mobile-phone-stand-for-desktop-table-for-all-device-size-upto-7-inch-product-images-orv4cbcr5ip-p593213323-0-202207282141.jpg",
       "imgLink2": "",
       "imgLink3": "",
@@ -4684,7 +4629,6 @@
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     }
   ],
-
   "groceries": [
     {
       "id": 1,
@@ -4716,8 +4660,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-1-202203150520.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491089339/bikaji-rasgulla-1-kg-product-images-o491089339-p590041206-3-202203150520.jpg",
       "name": "Bikaji Rasgulla 1 kg",
-      "mrp": 289.0,
-      "price": 144.0,
+      "mrp": 289,
+      "price": 144,
       "discount": "50",
       "category": "Sweets",
       "brand": "Bikaji"
@@ -4728,9 +4672,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-1-202203170914.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491089340/bikaji-gulab-jamun-1-kg-product-images-o491089340-p590041207-2-202203170914.jpg",
       "name": "Bikaji Gulab Jamun 1 Kg",
-
-      "mrp": 289.0,
-      "price": 144.0,
+      "mrp": 289,
+      "price": 144,
       "discount": "50",
       "category": "Sweets",
       "brand": "Bikaji"
@@ -4741,8 +4684,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-product-images-o491586300-p491586300-1-202208031137.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491586300/snactac-celebrations-soan-papdi-400-g-legal-images-o491586300-p491586300-2-202208031137.jpg",
       "name": "Snactac Celebrations Soan",
-      "mrp": 169.0,
-      "price": 84.0,
+      "mrp": 169,
+      "price": 84,
       "discount": "50",
       "category": "Sweets",
       "brand": "Dairy-Milk"
@@ -4753,8 +4696,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-1-202208031137.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491695427/snactac-celebrations-gulab-jamun-1-kg-product-images-o491695427-p491695427-2-202208031137.jpg",
       "name": "Snactac Celebrations Gulab",
-      "mrp": 289.0,
-      "price": 144.0,
+      "mrp": 289,
+      "price": 144,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Dairy-Milk"
@@ -4765,8 +4708,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-product-images-o491135485-p491135485-1-202203170955.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491135485/crave-gulab-jamun-1-kg-legal-images-o491135485-p491135485-2-202203170955.jpg",
       "name": "Crave Gulab Jamun 1 Kg",
-      "mrp": 299.0,
-      "price": 149.0,
+      "mrp": 299,
+      "price": 149,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Nirlon"
@@ -4777,8 +4720,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-1-202203150551.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491135486/crave-rasgulla-1-kg-product-images-o491135486-p491135486-2-202203150551.jpg",
       "name": "Crave Eatables Bachubhai's",
-      "mrp": 299.0,
-      "price": 149.0,
+      "mrp": 299,
+      "price": 149,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Nirlon"
@@ -4789,8 +4732,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-1-20220624.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/592200116/saffola-gold-refined-rice-bran-and-sunflower-based-blended-oil-3-l-daawat-devaaya-basmati-rice-5-kg-combo-pack-13-20220624.jpg",
       "name": "Saffola Gold Refined Rice Bran and ",
-      "mrp": 1310.0,
-      "price": 899.0,
+      "mrp": 1310,
+      "price": 899,
       "discount": "50",
       "category": "Oil",
       "brand": "Tide"
@@ -4801,8 +4744,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-product-images-o492367966-p590837659-2-202208111657.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/492367966/surf-excel-easy-wash-detergent-powder-5-kg-legal-images-o492367966-p590837659-3-202208111657.jpg",
       "name": "Surf Excel Esay wash Detergent ",
-      "mrp": 770.0,
-      "price": 620.0,
+      "mrp": 770,
+      "price": 620,
       "discount": "50",
       "category": "Detergant",
       "brand": "Tide"
@@ -4813,9 +4756,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-1-202203151949.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-2-202203151949.jpg",
       "name": "Tide Jasmine & Rose Detergent Powder 5",
-
-      "mrp": 685.0,
-      "price": 535.0,
+      "mrp": 685,
+      "price": 535,
       "discount": "50",
       "category": "Detergant",
       "brand": "Good-life"
@@ -4826,9 +4768,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-2-202203151011.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491335765/ariel-matic-top-load-detergent-powder-4-kg-get-extra-2-kg-free-product-images-o491335765-p491335765-3-202203151011.jpg",
       "name": "Ariel Matic Top Load Detergent Powder 4",
-
-      "mrp": 1330.0,
-      "price": 1030.0,
+      "mrp": 1330,
+      "price": 1030,
       "discount": "50",
       "category": "Detergant",
       "brand": "Celebration"
@@ -4839,9 +4780,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-2-202204291101.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-3-202204291102.jpg",
       "name": "Surf Excel Matic Top Load Detergent",
-
-      "mrp": 1325.0,
-      "price": 1025.0,
+      "mrp": 1325,
+      "price": 1025,
       "discount": "50",
       "category": "Detergant",
       "brand": "Celebration"
@@ -4852,9 +4792,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-1-202205180139.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491186625/good-life-almonds-500-g-legal-images-o491186625-p491186625-2-202205180139.jpg",
       "name": "Good Life Almond 500 g",
-
-      "mrp": 549.0,
-      "price": 349.0,
+      "mrp": 549,
+      "price": 349,
       "discount": "50",
       "category": "Dry-Fruits",
       "brand": "Celebration"
@@ -4865,9 +4804,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-1-202205180138.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491186631/good-life-w320-cashews-500-g-legal-images-o491186631-p491186631-2-202205180138.jpg",
       "name": "Good Life (W320)cashews 500 g",
-
-      "mrp": 499.0,
-      "price": 399.0,
+      "mrp": 499,
+      "price": 399,
       "discount": "50",
       "category": "Dry-Fruits",
       "brand": "Britannia"
@@ -4878,9 +4816,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-product-images-o491349617-p491349617-1-202207041226.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491349617/cadbury-celebration-chocolate-186-6-g-legal-images-o491349617-p491349617-2-202207041226.jpg",
       "name": "Cadbury Celebration Chocolate 178.80 g",
-
-      "mrp": 199.0,
-      "price": 159.0,
+      "mrp": 199,
+      "price": 159,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Britannia"
@@ -4891,8 +4828,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-product-images-o491458245-p491458245-1-202207271957.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491458245/cadbury-celebrations-premium-selection-assorted-gift-pack-268-g-legal-images-o491458245-p491458245-2-202207271957.jpg",
       "name": "Cadbury Celebration",
-      "mrp": 375.0,
-      "price": 300.0,
+      "mrp": 375,
+      "price": 300,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Sunfeast"
@@ -4903,8 +4840,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-product-images-o491458246-p491458246-1-202206281758.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491458246/cadbury-celebrations-130-9-g-legal-images-o491458246-p491458246-2-202206281758.jpg",
       "name": "Cadbury Celebration 130.9 g",
-      "mrp": 135.0,
-      "price": 108.0,
+      "mrp": 135,
+      "price": 108,
       "discount": "50",
       "category": "Chocolate",
       "brand": "Cadbury"
@@ -4915,8 +4852,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-2-202203150709.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490555510/orion-choco-pie-336-g-pack-of-12-legal-images-o490555510-p590361054-3-202203150709.jpg",
       "name": "Orion Choco Pie 28 g (Pack of 12)",
-      "mrp": 150.0,
-      "price": 100.0,
+      "mrp": 150,
+      "price": 100,
       "discount": "50",
       "category": "Cookies",
       "brand": "Dove"
@@ -4927,8 +4864,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-1-202203151534.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491890614/parle-20-20-gold-cashew-almond-cookies-600-g-product-images-o491890614-p590032849-2-202203151534.jpg",
       "name": "Parle 20-20 Gold Cashew Almond",
-      "mrp": 190.0,
-      "price": 95.0,
+      "mrp": 190,
+      "price": 95,
       "discount": "50",
       "category": "Cookies",
       "brand": "Head-Shoulders"
@@ -4939,8 +4876,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-1-202205172329.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491390714/britannia-good-day-choco-chip-cookies-400-g-product-images-o491390714-p590032794-3-202205172329.jpg",
       "name": "britannia Good Day Chocochip Cookies ",
-      "mrp": 140.0,
-      "price": 70.0,
+      "mrp": 140,
+      "price": 70,
       "discount": "50",
       "category": "Cookies",
       "brand": "Head-Shoulders"
@@ -4951,9 +4888,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-product-images-o491984416-p590309510-1-202203141950.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491984416/parle-happy-happy-choco-chip-cookies-400-g-legal-images-o491984416-p590309510-2-202203141950.jpg",
       "name": "Parle Happy Happy Choco-Chip Cookies",
-
-      "mrp": 150.0,
-      "price": 75.0,
+      "mrp": 150,
+      "price": 75,
       "discount": "50",
       "category": "Cookies",
       "brand": "Tresemme"
@@ -4964,9 +4900,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-1-202205301919.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491319789/sunfeast-dark-fantasy-original-choco-filled-biscuits-300-g-product-images-o491319789-p491319789-3-202205301919.jpg",
       "name": "Sunfeast Dark Fantasy Original",
-
-      "mrp": 170.0,
-      "price": 109.0,
+      "mrp": 170,
+      "price": 109,
       "discount": "50",
       "category": "Cookies",
       "brand": "Tresemme"
@@ -4977,9 +4912,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-product-images-o491696496-p590110608-1-202203170406.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491696496/cadbury-oreo-original-chocolatey-sandwich-biscuits-jumbo-pack-500-g-legal-images-o491696496-p590110608-2-202203170406.jpg",
       "name": "Cadbury Oreo Original Chocolatey",
-
-      "mrp": 145.0,
-      "price": 95.0,
+      "mrp": 145,
+      "price": 95,
       "discount": "50",
       "category": "Shampoo",
       "brand": "Lux"
@@ -4990,8 +4924,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-1-202203142029.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-2-202203142029.jpg",
       "name": "Dove Nutritive Solutions Hair Fall",
-      "mrp": 740.0,
-      "price": 370.0,
+      "mrp": 740,
+      "price": 370,
       "discount": "50",
       "category": "Shampoo",
       "brand": "Lux"
@@ -5002,9 +4936,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-2-202209221309.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490729045/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-product-images-o490729045-p490729045-3-202209221309.jpg",
       "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo",
-
-      "mrp": 740.0,
-      "price": 370.0,
+      "mrp": 740,
+      "price": 370,
       "discount": "52",
       "category": "Shampoo",
       "brand": "Godrej"
@@ -5015,9 +4948,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-2-202203170839.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490729044/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-product-images-o490729044-p490729044-3-202203170839.jpg",
       "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo",
-
-      "mrp": 740.0,
-      "price": 370.0,
+      "mrp": 740,
+      "price": 370,
       "discount": "51",
       "category": "Shampoo",
       "brand": "Gowardhen"
@@ -5028,9 +4960,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-1-202203150929.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490966833/tresemme-hair-fall-defense-shampoo-580-ml-product-images-o490966833-p490966833-2-202203150929.jpg",
       "name": "Tresemme Hair Fall Defense Shampoo",
-
-      "mrp": 670.0,
-      "price": 335.0,
+      "mrp": 670,
+      "price": 335,
       "discount": "66",
       "category": "Shampoo",
       "brand": "Coca-Cola"
@@ -5041,9 +4972,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-1-202203151823.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491046184/tresemme-pro-collection-keratin-smooth-shampoo-580-ml-product-images-o491046184-p491046184-2-202203151823.jpg",
       "name": "TRESemme Keratin Smooth Shampoo",
-
-      "mrp": 670.0,
-      "price": 335.0,
+      "mrp": 670,
+      "price": 335,
       "discount": "57",
       "category": "Shampoo",
       "brand": "Coca-Cola"
@@ -5054,9 +4984,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-1-202203151351.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490915877/lux-rose-vitamin-e-soft-glowing-skin-soap-bar-150-g-pack-of-3-product-images-o490915877-p490915877-2-202203151351.jpg",
       "name": "Lux Rose & Vitamin E Soft Glowing Skin Soap Bar",
-
-      "mrp": 198.0,
-      "price": 132.0,
+      "mrp": 198,
+      "price": 132,
       "discount": "54",
       "category": "Soap",
       "brand": "Nivea"
@@ -5067,9 +4996,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-1-202203150352.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490915878/lux-jasmine-vitamin-e-soap-150-g-pack-of-3-product-images-o490915878-p490915878-2-202203150352.jpg",
       "name": "Lux Jasmine & Vitamin E Soap 150 g (Pack of 3)",
-
-      "mrp": 198.0,
-      "price": 132.0,
+      "mrp": 198,
+      "price": 132,
       "discount": "50",
       "category": "Soap",
       "brand": "Park-Avenue"
@@ -5080,9 +5008,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-1-202203170805.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491173582/godrej-no-1-sandal-and-turmeric-soap-150-g-pack-of-4-product-images-o491173582-p491173582-2-202203170805.jpg",
       "name": "Godrej No.1 Sandal and Turmeric Soap 150 g (Pack of 4)",
-
-      "mrp": 189.0,
-      "price": 126.0,
+      "mrp": 189,
+      "price": 126,
       "discount": "57",
       "category": "Soap",
       "brand": "Park-Avenue"
@@ -5093,9 +5020,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-product-images-o490010244-p490010244-1-202203150918.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490010244/gowardhan-pure-cow-ghee-1-l-pouch-legal-images-o490010244-p490010244-2-202203150918.jpgg",
       "name": "Gowardhan Pure Cow Ghee 1 L (Pouch)",
-
-      "mrp": 629.0,
-      "price": 585.0,
+      "mrp": 629,
+      "price": 585,
       "discount": "64",
       "category": "Ghee",
       "brand": "Gowardhen"
@@ -5106,9 +5032,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-1-202206022121.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491121060/coca-cola-1-75-l-product-images-o491121060-p491121060-3-202206022121.jpg",
       "name": "Coca Cola 1.75 L",
-
-      "mrp": 90.0,
-      "price": 58.0,
+      "mrp": 90,
+      "price": 58,
       "discount": "20",
       "category": "Soft-Drink",
       "brand": "Coca-Cola"
@@ -5119,9 +5044,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-product-images-o491126478-p491126478-1-202203150104.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491126478/thums-up-1-75-l-legal-images-o491126478-p491126478-2-202203150104.jpg",
       "name": "Thums Up 1.75 L",
-
-      "mrp": 90.0,
-      "price": 59.0,
+      "mrp": 90,
+      "price": 59,
       "discount": "51",
       "category": "Soft-Drink",
       "brand": "Coca-Cola"
@@ -5132,9 +5056,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-1-202208101342.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490052704/nivea-men-fresh-active-original-deodorant-150-ml-product-images-o490052704-p490052704-2-202208101342.jpg",
       "name": "Nivea Men Fresh Active Original Deodorant 150 ml",
-
-      "mrp": 225.0,
-      "price": 112.0,
+      "mrp": 225,
+      "price": 112,
       "discount": "33",
       "category": "Shampoo",
       "brand": "Nivea"
@@ -5145,9 +5068,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-product-images-o491317225-p491317225-1-202203252309.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491317225/park-avenue-signature-collection-voyage-perfume-spray-220-ml-legal-images-o491317225-p491317225-3-202203252309.jpg",
       "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
-
-      "mrp": 375.0,
-      "price": 187.0,
+      "mrp": 375,
+      "price": 187,
       "discount": "50",
       "category": "Perfume",
       "brand": "Park-Avenue"
@@ -5158,9 +5080,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-1-202203281304.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491397890/kamasutra-spark-deodorant-spray-for-men-220-ml-product-images-o491397890-p491397890-3-202203281304.jpg",
       "name": "Kamasutra Spark Deodorant Spray for Men 220 ml",
-
-      "mrp": 360.0,
-      "price": 180.0,
+      "mrp": 360,
+      "price": 180,
       "discount": "54",
       "category": "Perfume",
       "brand": "Kamasutra"
@@ -5171,9 +5092,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-1-202203151142.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/490830561/nivea-whitening-smooth-skin-roll-on-deodorant-for-women-50-ml-product-images-o490830561-p490830561-2-202203151142.jpg",
       "name": "Nivea Whitening 50 ml for Women",
-
-      "mrp": 199.0,
-      "price": 132.0,
+      "mrp": 199,
+      "price": 132,
       "discount": "51",
       "category": "Perfume",
       "brand": "Kamasutra"
@@ -5184,9 +5104,8 @@
       "image2": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-product-images-o491437916-p590048936-1-202206071707.jpg",
       "image3": "https://www.jiomart.com/images/product/600x600/491437916/wonderland-foods-dry-fruits-gift-pack-300-g-legal-images-o491437916-p590048936-3-202205191726.jpg",
       "name": "Wonderland Foods Dry Fruits Gift Pack 300 g",
-
-      "mrp": 699.0,
-      "price": 349.0,
+      "mrp": 699,
+      "price": 349,
       "discount": "50",
       "category": "Sweets",
       "brand": "Tata"

@@ -87,7 +87,7 @@ const GroceriesProducts = () => {
             <div className="middle-section">
               {groceries.length > 0 &&
                 groceries.map((d) => {
-                  return <GroceriesCard key={d.id} item={d} />;
+                  return <GroceriesCard key={d.id} item={d} productData={d} />;
                 })}
             </div>
           {/* ******* pagination start ************ */}
