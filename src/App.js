@@ -29,13 +29,11 @@ function App() {
 
 
      
-
      {/* <Navbar/>
      <MainPage/>
      <MobileTablet /> */}
 
-      <Navbar />
-      <MainPage />
+    
 
     </div>
   );

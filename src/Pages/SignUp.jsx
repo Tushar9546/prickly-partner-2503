@@ -19,7 +19,7 @@ import { getLocalData } from "../Utils/localStorage";
 import { useNavigate } from "react-router-dom";
 
 
-const Signup = () => {
+const SignUp = () => {
   const dispatch = useDispatch();
   const users = useSelector((store) => store.authreducer.token);
   const [userinput, setuserinput] = useState({});
@@ -159,4 +159,4 @@ const Signup = () => {
   );
 };
 
-export default Signup;
+export default SignUp;
