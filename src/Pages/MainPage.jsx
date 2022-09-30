@@ -11,6 +11,8 @@ import CartPage from "./CartPage";
 import OrderSummaryPage from "./OrderSummaryPage";
 import PaymentPage from "./PaymentPage";
 import OrderConfirmedPage from "./OrderConfirmedPage";
+// import MobileTablet from "../Components/Electronics/MobileTablet";
+import MobileProducts from "./MobileProducts";
 
 export const MainPage = () => {
   return (
@@ -27,6 +29,8 @@ export const MainPage = () => {
         <Route path="/payment" element={<PaymentPage />} />
         <Route path="/orderplaced" element={<OrderConfirmedPage />} />
         <Route path="/fashion/women/:id" element={<ProductDetailPage />} />
+      
+        <Route path="/mobileProducts" element={<MobileProducts />} />
       </Routes>
     </div>
   );
