@@ -5,37 +5,58 @@ import Style from "./Navbar.module.css"
 import {BsFillCartFill} from "react-icons/bs"
 import {MdLocationOn} from "react-icons/md"
 import {AiOutlineDown} from "react-icons/ai"
-import {Link, useSearchParams} from "react-router-dom"
-import { useState } from 'react'
+import {Link} from "react-router-dom"
+import { useState,useRef ,useCallback} from 'react'
 import axios from "axios"
-import {useDisclosure, Drawer, DrawerOverlay,DrawerContent,DrawerCloseButton, DrawerHeader, DrawerBody, Input, Button, Menu, MenuList, MenuItem, MenuButton} from "@chakra-ui/react"
+import {useDisclosure, Drawer, DrawerOverlay,DrawerContent,DrawerCloseButton, DrawerHeader, DrawerBody, Input, Button, Menu, MenuList, MenuItem, MenuButton, Box} from "@chakra-ui/react"
+import { useThrottle} from "use-throttle"
+import { searchData } from '../Utils/searchdata'
+import { SearchBox } from './SearchBox'
 
 
 export const Navbar = () => {
    const { isOpen, onOpen, onClose } = useDisclosure()
- const [searchParam, setSearchParam]= useSearchParams()
-  const [query, setQuery] = useState(searchParam.get("q") || "")
-   const [data, setData] = useState([])
+   const [suggestion, setSuggestion] = useState([])
+  const [query, setQuery] = useState("")
+  const [input, setInput] = useState("")
+  const scrollRef= useRef()
+ 
 
- const SearchData=(query)=>{
-   axios.get(`http://localhost:8080/womens?q=${query}`)
-   .then((res)=>{
-      console.log(res.data)
-      setData(res.data)
-   })
-
- }
+  const queryhandler= useCallback((el)=>{
+    setQuery(el)
+  },[])
 
   const handleSearch=(e)=>{
-  
-      setQuery(e.target.value)
-     SearchData(e.target.value)
+     setQuery(e.target.value)
+   
   
   }
-console.log(query)
+
+  const throttletext= useThrottle(input, 1000)
 useEffect(()=>{
-      setSearchParam({q:query})
-},[query])
+   if(query === "")
+   {
+     setSuggestion([])
+   }
+   else {
+     //we need to find the countries tht matches the query
+     let newListSuggest= searchData.filter((el)=>{
+       const queryCountry= query.trim().toLocaleLowerCase()
+       return el.title.toLowerCase().indexOf(queryCountry) !== -1 ? true
+       : false;
+     })
+     .map((el)=>el.title);
+    //  console.log(newListSuggest)
+   
+     setSuggestion(newListSuggest)
+   }
+  },[query])
+
+  useEffect(()=>{
+   setQuery(throttletext)
+},[setQuery, throttletext])
+
+console.log(suggestion)
 
 
 
@@ -57,7 +78,8 @@ useEffect(()=>{
             <div className={Style.drawerslide}>
                <h2>Hello, Sign in</h2>
                <div className={Style.buttnslider}>
-               <Button >Account</Button>
+          <Button > <Link to={"/signin"}>Account</Link>
+                </Button>
                <Button>Orders</Button>
                </div>
 
@@ -121,14 +143,17 @@ useEffect(()=>{
         <div>
             <input className={Style.inputSearch} value={query} onChange={handleSearch} placeholder="Search essentials, groceries, and more ..." />
         </div>
-        <div className={Style.userdiv}>
+            
+        
+         
+       <div className={Style.userdiv}>
         <FaUser className={Style.usericons} />
-       <h4>Sign in / Sign up</h4>
+       <h4> <Link to={"/signin"}>Sign in / Sign up</Link></h4>
         </div>
 
         <div className={Style.cartNav}>
             <BsFillCartFill className={Style.carticon} />
-            <h4>Cart</h4>
+            <h4><Link to={"/cart"}>Cart</Link> </h4>
         </div>
     </div> 
         {/* navbar-2 */}
@@ -295,7 +320,14 @@ useEffect(()=>{
     </Menu>
          
        </div>
+       { suggestion.length===0 ? null :
 
+       <Box maxH="300px" overflowX="scroll" w="40%" marginLeft="27%" marginTop={-5} overflow-y="hidden" position="absolute" top="100px" background="white" paddingLeft={5} css>
+                <SearchBox suggestion={suggestion} />
+          </Box>
+
+       }
+      
      
     </div>
 
