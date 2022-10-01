@@ -1,7 +1,7 @@
 import { useNavigate } from "react-router-dom";
 import Style from "./Women.module.css";
 
-export const WomenProductCardPage = ({
+export const KitchenwareProductCartPage = ({
   name,
   price,
   image1,
@@ -12,7 +12,7 @@ export const WomenProductCardPage = ({
   const navigate = useNavigate();
 
   const handleNavigate = () => {
-    navigate(`/womensproducts/${id}`);
+    navigate(`/kitchenwaresproducts/${id}`);
   };
 
   return (
