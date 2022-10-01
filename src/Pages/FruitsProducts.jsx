@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import MobileCard from "../Components/MobileCard";
+import FruitsCard from "../Components/FruitsCard";
 import { Pagination } from "../Components/Pagination";
 import { Button } from '@chakra-ui/react'
 
-import { getMobilesProducts } from "../Redux/Mobile/action";
+import { getFruitsProducts } from "../Redux/Fruits/action";
 import "../Styles/Groceries.css";
-import MobileFilter from "../Components/MobileFilter";
+import GroceriesFilter from "../Components/GroceriesFilter";
 import { useLocation, useSearchParams } from "react-router-dom";
 
-const MobileProducts = () => {
-  const mobiletablets = useSelector((state) => state.MobileReducer.mobiletablets);
+const FruitsProducts = () => {
+  const fruits = useSelector((state) => state.FruitsReducer.fruits);
   const dispatch = useDispatch();
   const [page, setPage] = useState(1);
   const [searchParams] = useSearchParams();
@@ -21,28 +21,28 @@ const MobileProducts = () => {
   };
 
   useEffect(() => {
-    if(location || mobiletablets.length === 0){
-      let getGroceriesParams = {
+    if(location || fruits.length === 0){
+      let getFruitsParams = {
           params: {
               category: searchParams.getAll("category"),
               brand: searchParams.getAll("brand"),
           }
       }
-      dispatch(getMobilesProducts({page}, getGroceriesParams));
+      dispatch(getFruitsProducts({page}, getFruitsParams));
   }
   }, [page, location.search]);
 
   const handleSortBy = (sort, order) => {
-    dispatch(getMobilesProducts({ sort, order }));
+    dispatch(getFruitsProducts({ sort, order }));
   };
 
 
   return (
     <div className="groceries-container">
-      <div className="top-Section" style={{marginTop:"110px"}}>
+      <div className="top-Section">
         <p> Home </p>
         <p> All Categories </p>
-        <p> Groceries </p>
+        <p> Fruits </p>
       </div>
       <div className="groceries-body">
         <div className="left">{/* here write code for filtering */}
@@ -52,7 +52,7 @@ const MobileProducts = () => {
             </div>
             <div className="categories-cntr">
                <p>Categories</p>
-               <MobileFilter />
+               <GroceriesFilter />
             </div>
           </div>
         </div>
@@ -61,15 +61,13 @@ const MobileProducts = () => {
           <div className="top-section-imgcontainer">
             <img
               className="title-img"
-              style={{width:"auto",position:"relative"}}
-              src="https://www.jiomart.com/assets/global/verticals/fashion_default_banner.svg"
+              src="https://www.jiomart.com/images/category/2/groceries-20210201.jpeg"
               alt="TitleImage"
             />
-            <div style={{position:"absolute", marginTop:"-150px", fontSize:"40px" }}><h1>Mobiles & Tablets</h1></div>
           </div>
     {/* Sorting section Start */}
           <div className="right-sorting-container">
-            <p> Showing <b>20</b> of <b>64</b> items </p>
+            <p> Showing <b>10</b> of <b>20</b> items </p>
             <div className="sort-box">
                 <p>Sort by:</p>
                 <Button colorScheme='teal' variant='outline' onClick={() => handleSortBy("title", "asc")} > Popularity </Button>
@@ -87,9 +85,9 @@ const MobileProducts = () => {
               <h3 className="heading">ALL PRODUCTS</h3>
             </div>
             <div className="middle-section">
-              {mobiletablets.length > 0 &&
-                mobiletablets.map((d) => {
-                  return <MobileCard key={d.id} item={d} productData={d} />;
+              {fruits.length > 0 &&
+                fruits.map((d) => {
+                  return <FruitsCard key={d.id} item={d} productData={d} />;
                 })}
             </div>
           {/* ******* pagination start ************ */}
@@ -110,4 +108,4 @@ const MobileProducts = () => {
   );
 };
 
-export default MobileProducts;
+export default FruitsProducts;
