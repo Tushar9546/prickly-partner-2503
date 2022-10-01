@@ -30,6 +30,7 @@ export const MainPage = () => {
         <Route path="/fashion/women/:id" element={<ProductDetailPage />} />
         <Route path="/mobileProducts" element={<MobileProducts />} />
         <Route path="/:section/:id" element={<ProductDetailPage />} />
+        <Route path="/:section/:id" element={<ProductDetailPage />} />
       </Routes>
     </div>
   );
