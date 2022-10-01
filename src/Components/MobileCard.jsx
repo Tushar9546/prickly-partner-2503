@@ -36,7 +36,7 @@ const MobileCard = ({ item ,productData }) => {
        
       </div>
     
-      <div className='title-box' style={{marginTop:"50px" }} >
+      <div className='title-box' style={{marginTop:"10px" }} >
         <h3 className='product-title'>{item.name}</h3>
       </div>
       <div className='mrp-box' style={{display:"flex", justifyContent:"center", marginTop:"20px" }}>

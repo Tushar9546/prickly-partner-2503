@@ -43,7 +43,7 @@ const handleIncrease = (groceries) => {
     <div className='single-product'>
       
         <div className='img-box'>
-        <Link to={`/groceries/${item.id}`}>
+        <Link to={`/groceriesproducts/${item.id}`}>
           <img className='product-img' src={item.image1} alt="img" /></Link>
         </div>
         
@@ -58,8 +58,8 @@ const handleIncrease = (groceries) => {
       <div className='btn-box'>
      
         <button className='btn-cart' onClick={()=>handleAddCartData(item)}> Add to Cart </button>
-        <button onClick={()=>handleIncrease(item)}>+</button>
-        <button onClick={()=>handleDecrease(item)}>-</button>
+        {/* <button onClick={()=>handleIncrease(item)}>+</button>
+        <button onClick={()=>handleDecrease(item)}>-</button> */}
        
       </div>
       
