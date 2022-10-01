@@ -22,7 +22,6 @@
     }
   ],
   "Cart": [
-    {},
     {
       "id": 1,
       "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
@@ -34,6 +33,18 @@
       "discount": "50",
       "category": "Sugar",
       "brand": "Tata"
+    },
+    {
+      "id": 2,
+      "image1": "https://www.jiomart.com/images/product/150x150/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-0-202203170247.jpg",
+      "image2": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-1-202203170247.jpg",
+      "image3": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-legal-images-o490886599-p590041204-4-202203170247.jpg",
+      "name": "Bikaji Premium Soanpapdi 450 g",
+      "mrp": 100,
+      "price": 85,
+      "discount": "50",
+      "category": "Snack",
+      "brand": "Bikaji"
     }
   ],
   "fruits-vegitables": [
@@ -5486,6 +5497,248 @@
       "discount": "50",
       "category": "Sweets",
       "brand": "Tata"
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "name": "King Solomon Premium Imported 3 pcs",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Curate"
+    },
+    {
+      "id": 2,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 3,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "4",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 4,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-0-202207282046.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-1-202207282046.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-2-202207282046.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 45,
+      "price": 89,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "ROYAL DELIGHT"
+    },
+    {
+      "id": 5,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "name": "King Solomon Premium Imported 3 pcs",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Curate"
+    },
+    {
+      "id": 6,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 7,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "4",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 8,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-0-202207282046.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-1-202207282046.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-2-202207282046.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 45,
+      "price": 89,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "ROYAL DELIGHT"
+    },
+    {
+      "id": 9,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "name": "King Solomon Premium Imported 3 pcs",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Curate"
+    },
+    {
+      "id": 10,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 11,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "4",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 12,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-0-202207282046.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-1-202207282046.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-2-202207282046.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 45,
+      "price": 89,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "ROYAL DELIGHT"
+    },
+    {
+      "id": 13,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "name": "King Solomon Premium Imported 3 pcs",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Curate"
+    },
+    {
+      "id": 14,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 15,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "4",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 16,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-0-202207282046.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-1-202207282046.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-2-202207282046.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 45,
+      "price": 89,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "ROYAL DELIGHT"
+    },
+    {
+      "id": 17,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-0-202209160907.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599991469/3-dates-2-go-medjoul-king-solomon-premium-imported-3-pcs-product-images-o599991469-p592846374-1-202209160907.jpg",
+      "name": "King Solomon Premium Imported 3 pcs",
+      "mrp": 55,
+      "price": 46,
+      "discount": "50",
+      "category": "Dry-Fruits",
+      "brand": "Curate"
+    },
+    {
+      "id": 18,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 19,
+      "image1": "https://www.jiomart.com/images/product/150x150/599991335/avocado-hass-premium-imported-1-pc-approx-260-g-320-g-product-images-o599991335-p591429030-0-202207282047.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 55,
+      "price": 79,
+      "discount": "4",
+      "category": "Fruits",
+      "brand": "KING SOLOMON"
+    },
+    {
+      "id": 20,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-0-202207282046.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-1-202207282046.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990080/pineapple-queen-jumbo-premium-indian-1-pc-approx-1-2-kg-1-5-kg-product-images-o599990080-p590860309-2-202207282046.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
+      "mrp": 45,
+      "price": 89,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "ROYAL DELIGHT"
     }
   ]
 }

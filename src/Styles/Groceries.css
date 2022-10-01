@@ -1,6 +1,7 @@
 .groceries-container{
     width: 100%;
     height: auto;
+    margin-top: 9.5%;
     background-color: whitesmoke;
 }
 
@@ -73,7 +74,7 @@
 }
 
 .img-box{
-    height: 35%;
+    height: 58%;
     width: 55%;
     margin: auto;
 }
@@ -203,14 +204,12 @@
 .left{
     width: 20%;
     height: 2000px;
-    /* border: 1px solid red; */
 }
 
 .filters-container {
     width: 98%;
     height: 98%;
     margin: auto;
-    /* border: 1px solid #0e0d0d; */
 }
 
 .filters-heading{

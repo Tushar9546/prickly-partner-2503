@@ -11,6 +11,7 @@ import CartPage from "./CartPage";
 import OrderSummaryPage from "./OrderSummaryPage";
 import PaymentPage from "./PaymentPage";
 import OrderConfirmedPage from "./OrderConfirmedPage";
+import FruitsProducts from "./FruitsProducts";
 
 export const MainPage = () => {
   return (
@@ -28,6 +29,7 @@ export const MainPage = () => {
         <Route path="/orderplaced" element={<OrderConfirmedPage />} />
         <Route path="/fashion/women/:id" element={<ProductDetailPage />} />
         <Route path="/:section/:id" element={<ProductDetailPage />} />
+        <Route path="/fruitsproducts" element={<FruitsProducts />} />
       </Routes>
     </div>
   );
