@@ -1,36 +1,17 @@
 import { useEffect } from "react";
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import "../Styles/ProductDetailPage.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addCartData } from "../Redux/CartReducer/action";
 import { FaStar } from "react-icons/fa";
 
 export const ProductDetailPage = () => {
+
   const [currentProduct, setCurrentProduct] = useState([]);
-  const { section, id } = useParams();
+  const {section,id} = useParams();
   const data = useSelector((state) => state);
   const dispatch = useDispatch();
-
-    useEffect(() => {
-      if(section === "groceriesproducts" && id){
-        const groceries = data.GroceriesReducer.groceries
-        const productById = groceries.find(groceries => groceries.id === Number(id));
-        productById && setCurrentProduct(productById)
-      }
-      else if(section === "women" && id){
-        const women = data.WomenReducer.women
-        const productById = women.find(women => women.id === Number(id));
-        productById && setCurrentProduct(productById)
-      }
-      else if(section === "mobileProducts" && id){
-        const mobile = data.MobileReducer.mobiletablets
-        const productById = mobile.find(mobile => mobile.id === Number(id));
-        productById && setCurrentProduct(productById)
-      }
-    }, [section, id])
-
-   
   useEffect(() => {
     if (section === "groceriesproducts" && id) {
       const groceries = data.GroceriesReducer.groceries;
@@ -47,11 +28,17 @@ export const ProductDetailPage = () => {
       const productById = kitchenware.find((women) => women.id === Number(id));
       productById && setCurrentProduct(productById);
     }
+    else if(section === "mobileProducts" && id){
+      const mobile = data.MobileReducer.mobiletablets
+      const productById = mobile.find(mobile => mobile.id === Number(id));
+      productById && setCurrentProduct(productById)
+    }
   }, [section, id]);
 
   const handleAddToCart = () => {
     const temp = currentProduct;
     dispatch(addCartData(temp));
+    alert("Product added Successfully");
   };
 
   return (

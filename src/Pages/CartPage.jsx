@@ -31,10 +31,15 @@ import {
 
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-import ProductCard from "../Components/ProductCard";
+// import ProductCard from "../Components/ProductCard";
 import { getCartData } from "../Redux/CartReducer/action";
 import CartOrderPayment from "../Components/CartOrderPayment";
+<<<<<<< HEAD
+// import { ProductDetailPage } from "./ProductDetailPage";
+import GroceriesCard from "../Components/GroceriesCard";
+=======
 import { ProductDetailPage } from "./ProductDetailPage";
+>>>>>>> main
 
 
 const CartPage = () => {
@@ -146,7 +151,11 @@ const CartPage = () => {
             </HStack>
             <VStack divider={<StackDivider borderColor="grey" />}>
               {cartData?.map((item) => (
+<<<<<<< HEAD
+                <GroceriesCard key={item.id} item={item}/>
+=======
                 <ProductDetailPage key={item.id} item={item} />
+>>>>>>> main
               ))}
             </VStack>
           </Container>

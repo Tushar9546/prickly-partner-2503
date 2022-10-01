@@ -21,49 +21,8 @@
       "id": 2
     }
   ],
-  "Cart": [
-    {
-      "id": 1,
-      "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
-      "image2": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-1-202204281542.jpg",
-      "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
-      "name": "Good Life Sugar (M) 1 kg",
-      "mrp": 55,
-      "price": 46,
-      "discount": "50",
-      "category": "Sugar",
-      "brand": "Tata"
-    },
+  "Cart": [],
 
-  
-
-    {
-      "id": 2,
-      "image1": "https://www.jiomart.com/images/product/150x150/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-0-202203170247.jpg",
-      "image2": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-1-202203170247.jpg",
-      "image3": "https://www.jiomart.com/images/product/600x600/490886599/bikaji-premium-soanpapdi-450-g-legal-images-o490886599-p590041204-4-202203170247.jpg",
-      "name": "Bikaji Premium Soanpapdi 450 g",
-      "mrp": 100,
-      "price": 85,
-      "discount": "50",
-      "category": "Snack",
-      "brand": "Bikaji"
-    },
-    {
-      "image1": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai3016010dad/ensai3016010dad_1642096267009_2-0._SH20_QL90_UY365_PGshopbop-ex-sticker-3_UY365_.jpg",
-      "image2": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai3016010dad/ensai3016010dad_1642096267009_2-0._SH20_QL90_UY365_PGshopbop-ex-sticker-3_UY365_.jpg",
-      "image3": "https://m.media-amazon.com/images/G/01/Shopbop/p/prod/products/ensai/ensai3016010dad/ensai3016010dad_1642096267009_2-0._SH20_QL90_UY365_PGshopbop-ex-sticker-3_UY365_.jpg",
-      "name": "En Saison",
-      "detail": "Maya Dress",
-      "mrp": "900",
-      "price": "$132.50",
-      "discount": "50",
-      "category": "Kurta_Suit_Sets",
-      "brand": "Textile_Feb",
-      "id": 17
-    }
-
-  ],
   "fruits-vegitables": [
     {
       "id": 1,
@@ -3028,7 +2987,6 @@
       "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
       "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
       "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
-
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3159,7 +3117,6 @@
       "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
       "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
       "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
-
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3225,7 +3182,6 @@
       "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
       "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
       "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
-
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3550,8 +3506,7 @@
       "mrp": 14499,
       "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
       "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
-      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
-      "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
+      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",      "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
       "id": 56,

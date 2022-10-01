@@ -27,8 +27,9 @@ import { useDispatch, useSelector } from "react-redux";
 import { Link, useLocation } from "react-router-dom";
 import { getCartData } from "../Redux/CartReducer/action";
 import { useDisclosure } from "@chakra-ui/react";
-import ProductCard from "../Components/ProductCard";
 import CartOrderPayment from "../Components/CartOrderPayment";
+// import { ProductDetailPage } from "./ProductDetailPage";
+import GroceriesCard from "../Components/GroceriesCard";
 
 
 const OrderSummaryPage = () => {
@@ -288,7 +289,7 @@ const OrderSummaryPage = () => {
             </HStack>
             <VStack divider={<StackDivider borderColor="grey" />}>
               {cartData?.map((item) => (
-                <ProductCard key={item.id} item={item} />
+              <GroceriesCard key={item.id} item={item}/>
               ))}
             </VStack>
           </Container>
