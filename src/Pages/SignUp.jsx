@@ -35,7 +35,7 @@ const SignUp = () => {
     if (userinput.password === userinput.repassword) {
       dispatch(postauth(userinput));
       alert("signup successfull");
-      navigate("/signin");
+      navigate("/");
     } else {
       alert("password dosn't match");
     }

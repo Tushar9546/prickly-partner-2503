@@ -28,18 +28,11 @@ import {
   Spinner,
 } from "@chakra-ui/react";
 
-
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
-// import ProductCard from "../Components/ProductCard";
 import { getCartData } from "../Redux/CartReducer/action";
 import CartOrderPayment from "../Components/CartOrderPayment";
-<<<<<<< HEAD
-// import { ProductDetailPage } from "./ProductDetailPage";
 import GroceriesCard from "../Components/GroceriesCard";
-=======
-import { ProductDetailPage } from "./ProductDetailPage";
->>>>>>> main
 
 
 const CartPage = () => {
@@ -125,9 +118,7 @@ const CartPage = () => {
   }
 
   return (
-    <div style={{"paddingTop":"80px"}}>
-      {/* <Navbar/> */}
-      
+    <div style={{"paddingTop":"80px", marginBottom:"30%"}}>
       <Flex gap="2" w="80%" m="auto" my="10">
         <Container minW="60%" h="auto" bg="white">
           <Box fontSize="2xl" fontWeight="bold" align="left" mb="4">
@@ -151,12 +142,8 @@ const CartPage = () => {
             </HStack>
             <VStack divider={<StackDivider borderColor="grey" />}>
               {cartData?.map((item) => (
-<<<<<<< HEAD
                 <GroceriesCard key={item.id} item={item}/>
-=======
-                <ProductDetailPage key={item.id} item={item} />
->>>>>>> main
-              ))}
+                 ))}
             </VStack>
           </Container>
         </Container>

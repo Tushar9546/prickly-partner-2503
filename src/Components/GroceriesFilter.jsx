@@ -49,6 +49,14 @@ const GroceriesFilter = () => {
     <div className='filter-parent'>
         <div className='categories-parent'>
             <div className='filter-option'>
+                <input className='checkbox' checked={category.includes('Fruits')} value="Fruits" type="checkbox" onChange={handleFilterCheckbox}/>
+                <label> Fruits </label>
+            </div>
+            <div className='filter-option'>
+                <input className='checkbox' checked={category.includes('Dry-Fruits')} value="Dry-Fruits" type="checkbox" onChange={handleFilterCheckbox}/>
+                <label> Dry Fruits </label>
+            </div>
+            <div className='filter-option'>
                 <input className='checkbox' checked={category.includes('Sweets')} value="Sweets" type="checkbox" onChange={handleFilterCheckbox}/>
                 <label> Sweets </label>
             </div>
@@ -99,10 +107,22 @@ const GroceriesFilter = () => {
         </div>
         <div className='filter-Brand'>
             <p>Brand</p>
-            <div className='brand-box'>
+               <div className='brand-box'>
+                <div className='filter-option'>
+                    <input className='checkbox' checked={brand.includes('ROYAL DELIGHT')} value="ROYAL DELIGHT" type="checkbox" onChange={handleBrandFilter}/>
+                    <label> Royal Delight </label>
+                </div>
+               <div className='filter-option'>
+                    <input className='checkbox' checked={brand.includes('KING SOLOMOM')} value="KING SOLOMOM" type="checkbox" onChange={handleBrandFilter}/>
+                    <label> King Solomon </label>
+                </div>
                 <div className='filter-option'>
                     <input className='checkbox' checked={brand.includes('Tata')} value="Tata" type="checkbox" onChange={handleBrandFilter}/>
                     <label> Tata </label>
+                </div>
+                <div className='filter-option'>
+                    <input className='checkbox' checked={brand.includes('Curate')} value="Curate" type="checkbox" onChange={handleBrandFilter}/>
+                    <label> Curate </label>
                 </div>
                 <div className='filter-option'>
                     <input className='checkbox' checked={brand.includes('Kamasutra')} value="Kamasutra" type="checkbox" onChange={handleBrandFilter}/>

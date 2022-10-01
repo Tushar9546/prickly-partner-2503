@@ -61,7 +61,7 @@ const FruitsProducts = () => {
           <div className="top-section-imgcontainer">
             <img
               className="title-img"
-              src="https://www.jiomart.com/images/category/2/groceries-20210201.jpeg"
+              src="https://www.jiomart.com/images/category/7483/cherries-berries-exotic-fruits-20220802.jpeg"
               alt="TitleImage"
             />
           </div>

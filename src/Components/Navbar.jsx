@@ -199,10 +199,11 @@ console.log(suggestion)
          </MenuButton>
      
          <MenuList style={{backgroundColor:"#f2e8e8"}}>
-          <MenuItem>Apples & Pears</MenuItem>
+          <MenuItem><Link to={"/fruitsproducts"}>Fruits </Link>
+         </MenuItem>
           <MenuItem>Avocada, Peach , Plum</MenuItem>
           <MenuItem>Banana, Melons & Coconut</MenuItem>
-          <MenuItem>Fruits</MenuItem>
+          <MenuItem>Apples & Pears</MenuItem>
           <MenuItem>Citrus, Mango & Grapes</MenuItem>
           <MenuItem>Dates</MenuItem>
           <MenuItem>Gift, Assorted & XL Packs</MenuItem>
@@ -220,7 +221,8 @@ console.log(suggestion)
          </div>
          </MenuButton>
          <MenuList style={{backgroundColor:"#f2e8e8"}}>
-          <MenuItem>Kitcehnware </MenuItem>
+          <MenuItem><Link to={"/kitchenwearsproducts"}>Kitcehnware</Link>
+           </MenuItem>
           <MenuItem>Dining</MenuItem>
           <MenuItem>Furnishing</MenuItem>
           <MenuItem>Home Decor</MenuItem>
@@ -246,7 +248,7 @@ console.log(suggestion)
          </MenuButton>
        <MenuList style={{backgroundColor:"#f2e8e8"}}>
       <MenuItem>Men</MenuItem>
-      <MenuItem><Link to={"/fashion/women"}>Women</Link> </MenuItem>
+      <MenuItem><Link to={"/womensproducts"}>Women</Link> </MenuItem>
       <MenuItem>Boys</MenuItem>
       <MenuItem>Girls</MenuItem>
       <MenuItem>Infants</MenuItem>
@@ -263,7 +265,8 @@ console.log(suggestion)
          </div>
          </MenuButton>
          <MenuList style={{backgroundColor:"#f2e8e8"}}>
-          <MenuItem>Mobiles & Tables</MenuItem>
+          <MenuItem><Link to={"/mobileProducts"}>Mobiles & Tables</Link>
+          </MenuItem>
           <MenuItem>TV & Speaker</MenuItem>
           <MenuItem>Home Appliances</MenuItem>
           <MenuItem>Computers</MenuItem>
