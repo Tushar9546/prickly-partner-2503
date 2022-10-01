@@ -1,6 +1,7 @@
 .parent-wrapper{
   width: 100%;
   height: auto;
+  margin-top: 10%;
   padding-top: 2rem;
   background-color: #ffff;
 }
@@ -20,8 +21,8 @@
   margin: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-  height: 300px;
-  border: 1px solid red;
+  height: 200px;
+  border-bottom: 1px solid gray;
 }
 
 .img-wrapper{
@@ -121,7 +122,44 @@
   font-weight: bolder;
 }
 
+.rating-stars{
+  width: 90%;
+  margin: auto;
+  display: flex;
+  color: gray;
+}
+.icon-star{
+  padding-left: 5px;
+  width: 30px;
+  height: 30px;
+  color: rgb(81, 79, 79);
+}
+.icon-star-1{
+  padding-left: 5px;
+  width: 30px;
+  height: 30px;
+  color: gray;
+}
+
+.rating-btn{
+  margin: 3%;
+  margin-left: 5%;
+  height: 50px;
+  color: rgb(60, 58, 58);
+  font-weight: bolder;
+  width: 20%;
+  background-color: rgb(170, 165, 165);
+  border-radius: 5px;
+}
+
 @media screen and (max-width: 640px) { 
+  .parent-wrapper{
+    width: 100%;
+    height: auto;
+    margin-top: 15%;
+    padding-top: 2rem;
+    background-color: #ffff;
+  }
   .top-section-wrapper{
     width: 90%;
     margin: auto;
@@ -141,5 +179,5 @@
     font-size: 1rem;
     font-weight: bolder;
   }
-
 }
+
