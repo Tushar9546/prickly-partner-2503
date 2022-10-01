@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import "../Styles/ProductDetailPage.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addCartData } from "../Redux/CartReducer/action";
+import { FaStar } from "react-icons/fa";
 
 export const ProductDetailPage = () => {
     const [currentProduct, setCurrentProduct] = useState([]);
@@ -78,7 +79,18 @@ export const ProductDetailPage = () => {
         </div>
       </div>
       <div className="bottom-section-wrapper">
-      
+           <div className="heading-wrapper">
+               <h1> Product Rating </h1> 
+           </div>
+           <div className="rating-stars">
+              Rate Product <FaStar className="icon-star" />
+              <FaStar className="icon-star" />
+              <FaStar className="icon-star" />
+              <FaStar className="icon-star" />
+              <FaStar className="icon-star-1" />
+           </div>
+
+           <button className="rating-btn">WRITE REVIEW</button>
       </div>
 
     </div>
