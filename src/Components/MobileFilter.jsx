@@ -14,7 +14,7 @@ const MobileFilter = () => {
 
     const handleFilterCheckbox = (e) => {
         const newCategory = [...category]
-
+  
         if(newCategory.includes(e.target.value)){
             newCategory.splice(newCategory.indexOf(e.target.value), 1)
             setCategory(newCategory)

@@ -5,7 +5,6 @@ import "../Styles/Groceries.css"
 
 const GroceriesCard = ({ item, productData }) => {
 
-
   return (
     <div className='single-product'>
       <Link to={`/groceriesproducts/${productData.id}`}>
