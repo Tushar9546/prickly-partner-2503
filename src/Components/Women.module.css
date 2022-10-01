@@ -39,7 +39,7 @@
 /* main women page css  */
 .womenpage_div {
   display: flex;
-  margin-top: 1rem;
+  margin-top: 8rem;
 }
 .product_grid {
   display: grid;
@@ -54,6 +54,9 @@
   border-radius: 10px;
   height: auto;
   padding: 0.5rem;
+}
+.Cart_div:hover {
+  cursor: pointer;
 }
 .Cart_div > h5 {
   text-align: left;

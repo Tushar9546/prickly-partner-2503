@@ -1,13 +1,15 @@
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchWomenData } from "../Redux/WomenReducer/action";
 import { Pagination } from "./Pagination";
 import Style from "./Women.module.css";
 import { WomenProductCardPage } from "./WomenProductCardPage";
 import { useLocation, useSearchParams } from "react-router-dom";
+import { fetchKitchenData } from "../Redux/KitchenwareReducer/action";
 
-export const WomenProductPage = () => {
-  const womenData = useSelector((state) => state.WomenReducer.women);
+export const KitchenwareProductPage = () => {
+  const KitchenwareData = useSelector(
+    (state) => state.KitchenwareReducer.kitchenware
+  );
   const dispatch = useDispatch();
   const [page, setPage] = useState(1);
   const [searchParams] = useSearchParams();
@@ -18,27 +20,28 @@ export const WomenProductPage = () => {
   };
 
   useEffect(() => {
-    if (location || womenData.length === 0) {
+    if (location || KitchenwareData.length === 0) {
       let payload = {
         params: {
           category: searchParams.getAll("category"),
           brand: searchParams.getAll("brand"),
         },
       };
-      dispatch(fetchWomenData({ page }, payload));
+      console.log("payload in product page", payload);
+      dispatch(fetchKitchenData({ page }, payload));
     }
   }, [page, location.search]);
 
   const handleSortBy = (sort, order) => {
-    dispatch(fetchWomenData({ sort, order }));
+    dispatch(fetchKitchenData({ sort, order }));
   };
 
   return (
     <div className={Style.product}>
       <div>
         <img
-          src="https://www.jiomart.com/images/category/493/women-20200831.jpg"
-          alt="women-icons"
+          src="https://www.jiomart.com/images/category/1710/kitchenware-20220519.jpeg"
+          alt="kitchenware-icons"
           width={"100%"}
         />
       </div>
@@ -93,8 +96,8 @@ export const WomenProductPage = () => {
           ALL PRODUCTS
         </p>
         <div className={Style.product_grid}>
-          {womenData.length > 0 &&
-            womenData.map((item) => (
+          {KitchenwareData.length > 0 &&
+            KitchenwareData.map((item) => (
               <WomenProductCardPage key={`${item.id} `} {...item} />
             ))}
         </div>

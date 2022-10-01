@@ -1,14 +1,22 @@
+import { useNavigate } from "react-router-dom";
 import Style from "./Women.module.css";
 
 export const WomenProductCardPage = ({
-  title,
+  name,
   price,
-  image,
+  image1,
   detail,
   discount,
+  id,
 }) => {
+  const navigate = useNavigate();
+
+  const handleNavigate = () => {
+    navigate(`/womensproducts/${id}`);
+  };
+
   return (
-    <div className={Style.Cart_div}>
+    <div className={Style.Cart_div} onClick={handleNavigate}>
       <div>
         <div
           style={{
@@ -28,11 +36,11 @@ export const WomenProductCardPage = ({
           {discount} % OFF
         </div>
       </div>
-      <img src={image} alt="icon" width="200px" height="300px" />
+      <img src={image1} alt="icon" width="200px" height="300px" />
       <h5>
-        {title} {detail}
+        {name} {detail}
       </h5>
-      <h4>$ {price}</h4>
+      <h4>₹ {price}</h4>
     </div>
   );
 };
