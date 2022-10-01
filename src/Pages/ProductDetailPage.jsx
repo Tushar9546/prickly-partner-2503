@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import "../Styles/ProductDetailPage.css";
 import { useDispatch, useSelector } from "react-redux";
 import { addCartData } from "../Redux/CartReducer/action";
@@ -10,6 +10,7 @@ export const ProductDetailPage = () => {
     const {section,id} = useParams();
     const data = useSelector((state) => state);
     const dispatch = useDispatch();
+    
 
     useEffect(() => {
       if(section === "groceriesproducts" && id){
@@ -27,6 +28,9 @@ export const ProductDetailPage = () => {
     const handleAddToCart = () => {
       const temp = currentProduct
       dispatch(addCartData(temp))
+      alert("Product added to Cart");
+      
+
     }
 
   return (
