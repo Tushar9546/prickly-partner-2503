@@ -14,11 +14,11 @@ const MobileFilter = () => {
 
     const handleFilterCheckbox = (e) => {
         const newCategory = [...category]
-        console.log(newCategory)
+
         if(newCategory.includes(e.target.value)){
             newCategory.splice(newCategory.indexOf(e.target.value), 1)
             setCategory(newCategory)
-            console.log("working if ")
+      
         }
         else{
             newCategory.push(e.target.value)

@@ -22,6 +22,11 @@ export const ProductDetailPage = () => {
         const productById = women.find(women => women.id === Number(id));
         productById && setCurrentProduct(productById)
       }
+      else if(section === "mobileProducts" && id){
+        const mobile = data.MobileReducer.mobiletablets
+        const productById = mobile.find(mobile => mobile.id === Number(id));
+        productById && setCurrentProduct(productById)
+      }
     }, [section, id])
 
     const handleAddToCart = () => {
@@ -30,7 +35,7 @@ export const ProductDetailPage = () => {
     }
 
   return (
-    <div className='parent-wrapper'>
+    <div className='parent-wrapper' style={{marginTop:"100px"}}>
       <div className="top-section-wrapper">
         <div className="img-wrapper">
           <div className="img-details-wrapper">
