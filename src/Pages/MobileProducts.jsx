@@ -39,7 +39,7 @@ const MobileProducts = () => {
 
   return (
     <div className="groceries-container">
-      <div className="top-Section">
+      <div className="top-Section" style={{marginTop:"110px"}}>
         <p> Home </p>
         <p> All Categories </p>
         <p> Groceries </p>
@@ -61,7 +61,7 @@ const MobileProducts = () => {
           <div className="top-section-imgcontainer">
             <img
               className="title-img"
-              style={{width:"auto",position:"relative" }}
+              style={{width:"auto",position:"relative"}}
               src="https://www.jiomart.com/assets/global/verticals/fashion_default_banner.svg"
               alt="TitleImage"
             />
@@ -89,7 +89,7 @@ const MobileProducts = () => {
             <div className="middle-section">
               {mobiletablets.length > 0 &&
                 mobiletablets.map((d) => {
-                  return <MobileCard key={d.id} item={d} />;
+                  return <MobileCard key={d.id} item={d} productData={d} />;
                 })}
             </div>
           {/* ******* pagination start ************ */}

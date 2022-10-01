@@ -34,6 +34,9 @@
       "category": "Sugar",
       "brand": "Tata"
     },
+
+  
+
     {
       "id": 2,
       "image1": "https://www.jiomart.com/images/product/150x150/490886599/bikaji-premium-soanpapdi-450-g-product-images-o490886599-p590041204-0-202203170247.jpg",
@@ -59,6 +62,7 @@
       "brand": "Textile_Feb",
       "id": 17
     }
+
   ],
   "fruits-vegitables": [
     {
@@ -2839,9 +2843,9 @@
       "price": 499,
       "mrp": 1499,
       "discount": 68,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2852,9 +2856,9 @@
       "price": 625,
       "mrp": 1499,
       "discount": 58,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2865,9 +2869,9 @@
       "price": 27899,
       "mrp": 30900,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2878,9 +2882,9 @@
       "price": 550,
       "mrp": 1999,
       "discount": 72,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2891,9 +2895,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 12999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2904,9 +2908,9 @@
       "price": 37999,
       "mrp": 49999,
       "discount": 24,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2917,9 +2921,9 @@
       "price": 14499,
       "mrp": 17990,
       "discount": 19,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
-      "imgLink2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2930,9 +2934,9 @@
       "price": 9999,
       "mrp": 12999,
       "discount": 23,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2943,9 +2947,9 @@
       "price": 269,
       "mrp": 999,
       "discount": 73,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2956,10 +2960,10 @@
       "price": 10099,
       "discount": 22,
       "mrp": 14499,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
-      "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
+      "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
+     "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
       "id": 11,
@@ -2969,9 +2973,9 @@
       "price": 13999,
       "mrp": 16990,
       "discount": 17,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2982,9 +2986,9 @@
       "price": 21999,
       "mrp": 32999,
       "discount": 33,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -2995,9 +2999,9 @@
       "price": 15499,
       "mrp": 19999,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3008,9 +3012,9 @@
       "price": 10099,
       "mrp": 12999,
       "discount": 22,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3021,9 +3025,10 @@
       "price": 14499,
       "discount": 23,
       "mrp": 18999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3034,9 +3039,9 @@
       "price": 499,
       "mrp": 1499,
       "discount": 68,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3047,9 +3052,9 @@
       "price": 625,
       "mrp": 1499,
       "discount": 58,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3060,9 +3065,9 @@
       "price": 27899,
       "mrp": 30900,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3073,9 +3078,9 @@
       "price": 550,
       "mrp": 1999,
       "discount": 72,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3086,9 +3091,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 12999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3099,9 +3104,9 @@
       "price": 37999,
       "mrp": 49999,
       "discount": 24,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3112,9 +3117,9 @@
       "price": 14499,
       "mrp": 17990,
       "discount": 19,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
-      "imgLink2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
+      "image2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3125,9 +3130,9 @@
       "price": 9999,
       "mrp": 12999,
       "discount": 23,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3138,9 +3143,9 @@
       "price": 269,
       "mrp": 999,
       "discount": 73,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3151,9 +3156,10 @@
       "price": 10099,
       "discount": 22,
       "mrp": 14499,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
+
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3164,9 +3170,9 @@
       "price": 13999,
       "mrp": 16990,
       "discount": 17,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3177,9 +3183,9 @@
       "price": 21999,
       "mrp": 32999,
       "discount": 33,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3190,9 +3196,9 @@
       "price": 15499,
       "mrp": 19999,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3203,9 +3209,9 @@
       "price": 10099,
       "mrp": 12999,
       "discount": 22,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3216,9 +3222,10 @@
       "price": 14499,
       "discount": 23,
       "mrp": 18999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3229,9 +3236,9 @@
       "price": 499,
       "mrp": 1499,
       "discount": 68,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3242,9 +3249,9 @@
       "price": 625,
       "mrp": 1499,
       "discount": 58,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3255,9 +3262,9 @@
       "price": 27899,
       "mrp": 30900,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3268,9 +3275,9 @@
       "price": 550,
       "mrp": 1999,
       "discount": 72,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3281,9 +3288,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 12999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3294,9 +3301,9 @@
       "price": 37999,
       "mrp": 49999,
       "discount": 24,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3307,9 +3314,9 @@
       "price": 14499,
       "mrp": 17990,
       "discount": 19,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
-      "imgLink2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
+      "image2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3320,9 +3327,9 @@
       "price": 9999,
       "mrp": 12999,
       "discount": 23,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3333,9 +3340,9 @@
       "price": 269,
       "mrp": 999,
       "discount": 73,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3346,9 +3353,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 14499,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3359,9 +3366,9 @@
       "price": 13999,
       "mrp": 16990,
       "discount": 17,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3372,9 +3379,9 @@
       "price": 21999,
       "mrp": 32999,
       "discount": 33,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3385,9 +3392,9 @@
       "price": 15499,
       "mrp": 19999,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3398,9 +3405,9 @@
       "price": 10099,
       "mrp": 12999,
       "discount": 22,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3411,9 +3418,9 @@
       "price": 14499,
       "discount": 23,
       "mrp": 18999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3424,9 +3431,9 @@
       "price": 499,
       "mrp": 1499,
       "discount": 68,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-0-202205140303.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-1-202205140303.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvgmo6vxwp/txor-storm-m5-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvgmo6vxwp-p591301931-2-202207121138.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3437,9 +3444,9 @@
       "price": 625,
       "mrp": 1499,
       "discount": 58,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-0-202205231238.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvqgaouwrl/txor-lexy-d18-smart-watch-fitness-band-35-mm-black-color-touch-screen-for-android-and-ios-black-strap-product-images-orvqgaouwrl-p591536963-1-202205231238.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3450,9 +3457,9 @@
       "price": 27899,
       "mrp": 30900,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-0-202109210546.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-1-202109210546.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491997817/apple-ipad-9th-gen-2021-25-91-cm-10-2-inch-wi-fi-tablet-64-gb-space-grey-mk2k3hn-a-digital-o491997817-p590798663-2-202109210546.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3463,9 +3470,9 @@
       "price": 550,
       "mrp": 1999,
       "discount": 72,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-0-202207171836.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-1-202207171836.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvpraaccan/wingfi-20000-mah-lithium-ion-power-bank-product-images-orvpraaccan-p592732212-2-202207171836.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3476,9 +3483,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 12999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998280/xiaomi-redmi-9-activ-128-gb-6-gb-ram-metallic-purple-smartphone-digital-o491998280-p590837915-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3489,9 +3496,9 @@
       "price": 37999,
       "mrp": 49999,
       "discount": 24,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-0-202208022043.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-1-202208022043.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491947285/oneplus-9-128-gb-8-gb-ram-arctic-sky-mobile-phone-digital-o491947285-p590442434-2-202208022043.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3502,9 +3509,9 @@
       "price": 14499,
       "mrp": 17990,
       "discount": 19,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
-      "imgLink2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-0-202209200013.jpeg",
+      "image2": "hhttps://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-1-202209200013.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/493177660/vivo-y22-64-gb-4-gb-ram-metaverse-green-mobile-phone-digital-o493177660-p593860027-2-202209200013.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3515,9 +3522,9 @@
       "price": 9999,
       "mrp": 12999,
       "discount": 23,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-0-202205242324.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-1-202205242324.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849902/motorola-e32s-64-gb-4-gb-ram-slate-gray-mobile-phone-digital-o492849902-p591570045-2-202205242324.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3528,9 +3535,9 @@
       "price": 269,
       "mrp": 999,
       "discount": 73,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
+      "image1": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-0-202207281938.jpg",
+      "image2": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-1-202207281938.jpg",
+      "image3": "https://www.jiomart.com/images/product/150x150/rvdsuadoyo/m-g-r-j-black-amazfit-verge-or-amazfit-verge-lite-or-a1811-smartwatch-smartwatch-case-product-images-orvdsuadoyo-p593208752-2-202207281939.jpg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3541,9 +3548,9 @@
       "price": 10099,
       "discount": 22,
       "mrp": 14499,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-0-202206232250.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-1-202206232250.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850709/tecno-pova3-64-gb-4-gb-ram-eco-black-mobile-phone-digital-o492850709-p592184038-2-202206232250.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3554,9 +3561,9 @@
       "price": 13999,
       "mrp": 16990,
       "discount": 17,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-0-202206211811.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-1-202206211811.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850647/oppo-a57-64gb-4gb-ram-glowing-green-mobile-phone-digital-o492850647-p592138841-2-202206211811.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3567,9 +3574,9 @@
       "price": 21999,
       "mrp": 32999,
       "discount": 33,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-0-202208122018.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-1-202208122018.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850534/samsung-galaxy-m53-5g-128-gb-6-gb-ram-emerald-brown-mobile-phone-digital-o492850534-p592004272-2-202208122018.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3580,9 +3587,9 @@
       "price": 15499,
       "mrp": 19999,
       "discount": 9,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-0-202204291507.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-1-202204291507.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492849130/redmi-note-11-128-gb-6-gb-ram-graphite-gray-mobile-phone-digital-o492849130-p591224547-2-202204291508.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3593,9 +3600,9 @@
       "price": 10099,
       "mrp": 12999,
       "discount": 22,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-0-202110292148.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/491998278/xiaomi-redmi-9-activ-128-gb-6-gb-ram-carbon-black-smartphone-digital-o491998278-p590837914-1-202110292148.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     },
     {
@@ -3606,9 +3613,9 @@
       "price": 14499,
       "discount": 23,
       "mrp": 18999,
-      "imgLink1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
-      "imgLink2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
-      "imgLink3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
+      "image1": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-0-202205192307.jpeg",
+      "image2": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-1-202205192307.jpeg",
+      "image3": "https://www.jiomart.com/images/product/150x150/492850151/redmi-10-power-128-gb-8-gb-ram-power-black-mobile-phone-digital-o492850151-p591470305-2-202205192307.jpeg",
       "discountimgLink": "https://www.jiomart.com/assets/version1662994539/smartweb/images/icons/offer_bg.svg"
     }
   ],

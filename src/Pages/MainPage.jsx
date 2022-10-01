@@ -11,10 +11,7 @@ import CartPage from "./CartPage";
 import OrderSummaryPage from "./OrderSummaryPage";
 import PaymentPage from "./PaymentPage";
 import OrderConfirmedPage from "./OrderConfirmedPage";
-import FruitsProducts from "./FruitsProducts";
-// import MobileTablet from "../Components/Electronics/MobileTablet";
 import MobileProducts from "./MobileProducts";
-import { Kitchenwares } from "./Kitchenwares";
 
 export const MainPage = () => {
   return (
@@ -22,7 +19,7 @@ export const MainPage = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/groceriesproducts" element={<GroceriesProducts />} />
-        <Route path="/womensproducts" element={<Women />} />
+        <Route path="/fashion/women" element={<Women />} />
         <Route path="/signin" element={<SignIn />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/account" element={<Account />} />
@@ -33,9 +30,7 @@ export const MainPage = () => {
         <Route path="/fashion/women/:id" element={<ProductDetailPage />} />
         <Route path="/mobileProducts" element={<MobileProducts />} />
         <Route path="/:section/:id" element={<ProductDetailPage />} />
-        <Route path="/fruitsproducts" element={<FruitsProducts />} />
-        <Route path="/kitchenwaresproducts" element={<Kitchenwares />} />
-        <Route path="*" element={<h1>Page Not Found...</h1>} />
+        <Route path="/:section/:id" element={<ProductDetailPage />} />
       </Routes>
     </div>
   );

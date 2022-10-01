@@ -12,6 +12,25 @@ export const ProductDetailPage = () => {
   const data = useSelector((state) => state);
   const dispatch = useDispatch();
 
+    useEffect(() => {
+      if(section === "groceriesproducts" && id){
+        const groceries = data.GroceriesReducer.groceries
+        const productById = groceries.find(groceries => groceries.id === Number(id));
+        productById && setCurrentProduct(productById)
+      }
+      else if(section === "women" && id){
+        const women = data.WomenReducer.women
+        const productById = women.find(women => women.id === Number(id));
+        productById && setCurrentProduct(productById)
+      }
+      else if(section === "mobileProducts" && id){
+        const mobile = data.MobileReducer.mobiletablets
+        const productById = mobile.find(mobile => mobile.id === Number(id));
+        productById && setCurrentProduct(productById)
+      }
+    }, [section, id])
+
+   
   useEffect(() => {
     if (section === "groceriesproducts" && id) {
       const groceries = data.GroceriesReducer.groceries;
@@ -36,7 +55,7 @@ export const ProductDetailPage = () => {
   };
 
   return (
-    <div className="parent-wrapper">
+    <div className='parent-wrapper' style={{marginTop:"100px"}}>
       <div className="top-section-wrapper">
         <div className="img-wrapper">
           <div className="img-details-wrapper">
@@ -121,4 +140,4 @@ export const ProductDetailPage = () => {
       </div>
     </div>
   );
-};
+}
