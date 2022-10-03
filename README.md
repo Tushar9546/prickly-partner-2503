@@ -45,6 +45,10 @@
       <li>Email:ayeshatravels9@gmail.com</li>
       <li>LinkedIn:https://www.linkedin.com/in/ayesha-khan-8a95691b9</li></ul>
       
-      
+  <h4>Rohit Belure</h4>
+    <ul><li>Github:RohitMBelure</li>
+      <li>Github Link:https://github.com/RohitMBelure</li>
+      <li>Email:rohitbelure128@gmail.com</li>
+      <li>LinkedIn:https://www.linkedin.com/in/rohit-belure-8b8369167/</li></ul>
 
   </html>
