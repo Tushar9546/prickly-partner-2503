@@ -53,7 +53,7 @@
       
   <h4>Tushar</h4>
     <ul><li>Github:Tushar9546</li>
-      <li>Github Link:[https://github.com/RohitMBelure](https://github.com/Tushar9546/prickly-partner-2503)</li>
+      <li>Github Link:https://github.com/Tushar9546/prickly-partner-2503</li>
       <li>Email:tyagit911@gmail.com</li>
       <li>LinkedIn:www.linkedin.com/in/tushar-tyagi-5ba071222z</li></ul>
 
