@@ -50,5 +50,12 @@
       <li>Github Link:https://github.com/RohitMBelure</li>
       <li>Email:rohitbelure128@gmail.com</li>
       <li>LinkedIn:https://www.linkedin.com/in/rohit-belure-8b8369167/</li></ul>
+      
+  <h4>Tushar</h4>
+    <ul><li>Github:Tushar9546</li>
+      <li>Github Link:https://github.com/RohitMBelure</li>
+      <li>Email:tyagit911@gmail.com</li>
+      <li>LinkedIn:www.linkedin.com/in/tushar-tyagi-5ba071222z</li></ul>
+
 
   </html>
