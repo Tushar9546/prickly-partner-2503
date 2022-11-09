@@ -8,36 +8,43 @@ import "../Styles/Groceries.css"
 const GroceriesCard = ({item}) => {
 
   const dispatch = useDispatch();
-  const [count, setCount] = useState(item.count);
+  //const [count, setCount] = useState(item.count);
   const location = useLocation();
   const navigate=useNavigate();
-  const handleAddCartData = (item) => {
-    console.log("Item-to-Cart:", item);
-    const payload = { ...item, count: 1 }
-    dispatch(addCartData(payload))
-    alert("Product added to cart");
-    navigate("/cart");
+
+
+
+  const handleAddCartData = (newData) => {
+    dispatch(addCartData({ ...newData, count: 1 })).then((res)=>{
+      if(res.payload){
+        alert("Product added to cart");
+      }
+      else{
+        alert("Item Already exsit")
+      }
+    })
+   
 };
 
-const handleDecrease = (groceries) => {
-  console.log("count:", count, typeof count, groceries);
-  if (count !== 1) {
-    setCount(() => count - 1);
-    console.log("groceries", groceries);
-    const payload = { count: groceries.count - 1 };
-    dispatch(updateCartData(groceries.id, payload));
-  }
-  dispatch(deleteCartData(groceries));
-};
+// const handleDecrease = (groceries) => {
+//   console.log("count:", count, typeof count, groceries);
+//   if (count !== 1) {
+//     setCount(() => count - 1);
+//     console.log("groceries", groceries);
+//     const payload = { count: groceries.count - 1 };
+//     dispatch(updateCartData(groceries.id, payload));
+//   }
+//   dispatch(deleteCartData(groceries));
+// };
 
-const handleIncrease = (groceries) => {
-  setCount(() => count + 1);
-  console.log("groceries", groceries);
-  const payload = {
-    count: groceries.count + 1,
-  };
-  dispatch(updateCartData(groceries.id, payload));
-};
+// const handleIncrease = (groceries) => {
+//   setCount(() => count + 1);
+//   console.log("groceries", groceries);
+//   const payload = {
+//     count: groceries.count + 1,
+//   };
+//   dispatch(updateCartData(groceries.id, payload));
+// };
 
   return (
     <div className='single-product'>

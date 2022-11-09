@@ -1,5 +1,6 @@
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Style from "./Women.module.css";
+
 
 export const KitchenwareProductCartPage = ({
   name,
@@ -8,17 +9,20 @@ export const KitchenwareProductCartPage = ({
   detail,
   discount,
   id,
+  item
 }) => {
   const navigate = useNavigate();
-
-  const handleNavigate = () => {
+ const handleNavigate = () => {
     navigate(`/kitchenwaresproducts/${id}`);
   };
 
+
+
   return (
-    <div className={Style.Cart_div} onClick={handleNavigate}>
-      <div>
-        <div
+    <div >
+      <div >
+        <div 
+        className={Style.Cart_div} onClick={handleNavigate}
           style={{
             backgroundColor: "red",
             width: "40px",
@@ -35,12 +39,15 @@ export const KitchenwareProductCartPage = ({
         >
           {discount} % OFF
         </div>
-      </div>
-      <img src={image1} alt="icon" width="200px" height="300px" />
+      <Link to={`/kitchenwaresproducts/${id}`}>
+      <img src={image1} alt="icon" width="200px" height="300px" /></Link>
       <h5>
         {name} {detail}
       </h5>
       <h4>₹ {price}</h4>
+   </div>
+    
     </div>
+    
   );
 };

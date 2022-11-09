@@ -2,8 +2,26 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import "../Styles/Groceries.css"
+import { useDispatch } from 'react-redux';
+import { addCartData} from '../Redux/CartReducer/action';
 
 const FruitsCard = ({ item, productData }) => {
+  const dispatch = useDispatch();
+  
+ const handleAddCartData = (newData) => {
+    dispatch(addCartData({ ...newData, count: 1 })).then((res)=>{
+      if(res.payload){
+        alert("Product added to cart");
+      }
+      else{
+        alert("Item Already exsit")
+      }
+    })
+   
+};
+
+
+
 
   return (
     <div className='single-product'>
@@ -19,7 +37,7 @@ const FruitsCard = ({ item, productData }) => {
         </div>
       </Link>
       <div className='btn-box'>
-        <button className='btn-cart' > Add to Cart </button>
+        <button className='btn-cart' onClick={()=>handleAddCartData(item)} > Add to Cart </button>
       </div>
     </div>
   )

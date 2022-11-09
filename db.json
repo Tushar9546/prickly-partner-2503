@@ -33,16 +33,16 @@
   ],
   "Cart": [
     {
-      "id": 1,
-      "image1": "https://www.jiomart.com/images/product/150x150/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-0-202204281542.jpg",
-      "image2": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-product-images-o491551493-p491551493-1-202204281542.jpg",
-      "image3": "https://www.jiomart.com/images/product/600x600/491551493/good-life-sugar-m-1-kg-legal-images-o491551493-p491551493-5-202204281543.jpg",
-      "name": "Good Life Sugar (M) 1 kg",
+      "id": 2,
+      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
+      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
+      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
+      "name": "Sweet Lime Premium Indian 4 Pc",
       "mrp": 55,
-      "price": 46,
-      "discount": "50",
-      "category": "Sugar",
-      "brand": "Tata",
+      "price": 79,
+      "discount": "30",
+      "category": "Fruits",
+      "brand": "KING SOLOMON",
       "count": 1
     }
   ],

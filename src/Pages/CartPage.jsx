@@ -32,7 +32,8 @@ import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 import { getCartData } from "../Redux/CartReducer/action";
 import CartOrderPayment from "../Components/CartOrderPayment";
-import GroceriesCard from "../Components/GroceriesCard";
+import { updateCartData , deleteCartData} from "../Redux/CartReducer/action";
+
 
 
 const CartPage = () => {
@@ -45,6 +46,8 @@ const CartPage = () => {
   const cartData = useSelector((store) => store.cartReducer.cartData);
   const loading = useSelector((store) => store.cartReducer.isLoading);
   console.log("CartData:", cartData);
+
+  
   const dispatch = useDispatch();
   const [total, setTotal] = useState(
     cartData?.reduce((acc, item) => acc + Number(item.price * item.count), 0)
@@ -60,6 +63,9 @@ const CartPage = () => {
     0
   );
 
+
+
+  
   function couponToast() {
     return toast({
       title: `Coupon Applied`,
@@ -87,8 +93,6 @@ const CartPage = () => {
     setTotal(total - Number(inputCoupon.match(/\d/g).join("")));
   };
 
-  
-
   useEffect(() => {
     dispatch(getCartData());
     setTotal(
@@ -96,18 +100,26 @@ const CartPage = () => {
     );
   }, []);
 
-  if (loading) {
-    return (
-      <Spinner
-        thickness="4px"
-        speed="0.65s"
-        emptyColor="gray.200"
-        color="blue.500"
-        size="xl"
-        m="50vw"
-      />
-    );
+  //decrement
+  const handleDecCount=(id,count) =>{
+    dispatch(updateCartData(id, count - 1)).then((res)=>{
+      dispatch(getCartData())
+    })
   }
+//increment
+const handleIncCount=(id,count)=>{
+  dispatch(updateCartData(id, count + 1)).then((res)=>{
+    dispatch(getCartData())
+  })
+}
+  
+//remove
+const handleRemoveCart=(id)=>{
+ dispatch(deleteCartData(id)).then((res)=>{
+  dispatch(getCartData())
+ })
+}
+
 
   if (cartData.length === 0) {
     return (
@@ -141,9 +153,34 @@ const CartPage = () => {
               </Box>
             </HStack>
             <VStack divider={<StackDivider borderColor="grey" />}>
-              {cartData?.map((item) => (
-                <GroceriesCard key={item.id} item={item}/>
-                 ))}
+              {cartData && cartData?.map((item) => (
+               <div key={item.id} style={{display:"flex", justifyContent:"space-around" , gap:"60px"}}>
+                <div>
+                  <img height="110px" width="110px" src={item.image1}/>
+
+                </div>
+                <div>
+                 <h2>{item.name}</h2>
+                 <p>{item.category}</p>
+                 <p style={{color:"gray"}} >discount : {item.discount}</p>
+                
+                </div>
+                <div style={{ display:"block"}}>
+                <h3>Price ${item.price}</h3>
+                <div style={{ display:"flex", justifyContent:"space-around", alignItems:"center", marginTop:"10px", gap:"8px"}}>
+                  <button disabled={item.count === 1} onClick={()=>handleDecCount(item.id, item.count)} style={{border:"1px solid gray", color:"white", fontSize:"14px",  backgroundColor:"#008ecc", width:"30px", borderRadius:"50px"}} >-</button>
+                  <button>{item.count}</button>
+                  <button onClick={()=>handleIncCount(item.id, item.count)} style={{border:"1px solid gray", color:"white", fontSize:"14px",  backgroundColor:"#008ecc", width:"30px", borderRadius:"50px"}}>+</button>
+                </div>
+                
+                {/* remove */}
+                <div style={{ marginTop:"20px"}}>
+                  <button  onClick={() => handleRemoveCart(item.id)} style={{borderRadius:"5px", fontSize:"12px",fontWeight:"bold", width:"70px",backgroundColor:"red",color:"white", padding:"4px"}}>Remove</button>
+                </div>
+                </div>
+               </div>
+               
+                 ))}``
             </VStack>
           </Container>
         </Container>
@@ -314,6 +351,7 @@ const CartPage = () => {
                 Place Order
               </Button>
             </Link>
+
           </Box>
         </Container>
       </Flex>
