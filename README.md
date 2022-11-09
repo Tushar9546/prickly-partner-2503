@@ -3,7 +3,7 @@
   <h3>In the Masai School Construct week project ,We have cloned the Online Grocery- JioMart website. JioMart is an Indian ecommerce website, where user can choose 
   and buy online products such as Grocery, electronic , Fashion & Beauty products and much more. We built this clone website in 5 days with the team of 5 collaborators.
   <br>
-  <br>Tech languanges:- HTML | CSS | JavaScript | React | Redux</br>
+  <br>Tech languanges:- HTML | CSS | JavaScript | React | Redux | ChakraUI</br>
   <br>
    <p> Some features of our Projects-</p>
      1)Login/sign-up.
@@ -58,4 +58,15 @@
       <li>LinkedIn:www.linkedin.com/in/tushar-tyagi-5ba071222z</li></ul>
 
 
+<h4> Samsur Sekh</h4>
+    <ul><li>Github:Samsursekh</li>
+      <li>Github Link:Github Link:https://github.com/Samsursekh</li>
+      <li>Email: samsur.sekh.masai@gmail.com</li>
+      <li>LinkedIn:https://www.linkedin.com/in/samsur-sekh-b6961a22b/</li></ul>
+
+   
+    
+    
+    
+    
   </html>
