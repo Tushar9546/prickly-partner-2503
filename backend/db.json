@@ -31,21 +31,7 @@
       "id": 3
     }
   ],
-  "Cart": [
-    {
-      "id": 2,
-      "image1": "https://www.jiomart.com/images/product/150x150/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-0-202209070708.jpg",
-      "image2": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-1-202209070708.jpg",
-      "image3": "https://www.jiomart.com/images/product/420x420/599990082/sweetlime-premium-indian-4-pc-approx-0-80-kg-1-10-kg-product-images-o599990082-p593160805-2-202209070708.jpg",
-      "name": "Sweet Lime Premium Indian 4 Pc",
-      "mrp": 55,
-      "price": 79,
-      "discount": "30",
-      "category": "Fruits",
-      "brand": "KING SOLOMON",
-      "count": 1
-    }
-  ],
+  "Cart": [],
   "fruits-vegitables": [
     {
       "id": 1,
