@@ -5,6 +5,9 @@
   <br>
   <br>Tech languanges:- HTML | CSS | JavaScript | React | Redux | ChakraUI</br>
   <br>
+  <h2>Live <h2>
+  <li>https://sprightly-truffle-e92261.netlify.app/</li>
+  <br>
    <p> Some features of our Projects-</p>
      1)Login/sign-up.
     <br>2)Product Page & Product Detail page.
